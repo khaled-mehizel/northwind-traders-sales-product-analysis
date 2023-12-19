@@ -14,6 +14,33 @@ Or that's what I would've said if I didn't just install a VSCodium extension tha
 
 # Tools used:
 - Notepad++ and its add-on, CSV Lint, for quick CSV importing into MySQL Workbench. It also allows you to set primary keys, constraints, it's an essential tool for any data analyst that uses SQL.
-- MySQL Workbench for cleaning and querying
+- MySQL Workbench for schema creation.
 - Power BI for data modeling and visualization.
+- PowerPoint for Reporting. maybe.
 
+
+# Importing and Database Normalization
+Using CSV Lint as usual: 
+  - We get rid of unneeded columns like category descriptions. 
+  - Do a little check on our data types and ensure validity
+  - Convert the CSV file into a SQL script that creates a table, and inserts the values into it.
+We also make sure to create our relational schema via the use of primary keys and foreign keys. By the time we've imported the data, it's normalized, and the model is created.
+
+The schema is of the star variety.
+
+## Cleaning
+We inspect every table quickly in Excel to save time, they look to be in great shape, but we'll make sure in Excel all the same.
+We'll load the tables into Power Query just to verify numbers and currencies.
+
+## Modeling in Power BI
+  - I disabled automatic relationship creation, so I had to manually recreate the model.
+  - I also created a date table with the use of **CALENDAR()** that covers the entire dataset, it goes from 2013-07-04 to 2015-05-04. 
+  - I split the date table into Year, Quarter, and Month to take advantage of time intelligence functions later.
+  - Ensure that city and country fields are marked as geospatial.
+  - Add a discounted price field using Power Query. Could also use DAX but eh.
+  - Replaced the values in the Discontinued? field with a Yes or No.
+
+# Visualization
+  - First things first, we'll need some DAX measures, some KPIs measuring performance etc.
+    - A total sales KPI comparing current sales to last month's using **CALCULATE()** and **DATEADD()**
+    
