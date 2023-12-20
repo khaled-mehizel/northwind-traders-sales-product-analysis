@@ -43,4 +43,7 @@ We'll load the tables into Power Query just to verify numbers and currencies.
 # Visualization
   - First things first, we'll need some DAX measures, some KPIs measuring performance etc.
     - A total sales KPI comparing current sales to last month's using **CALCULATE()** and **DATEADD()**
+ c
+  - I wanted to use the new slicer with the images. But I needed a column with the image URLs, the way I went about this is creating an Excel file that relates each category with an image, then importing it as a CSV file, and creating a relationship in Power BI.
+    I really like how it looks, heh. The icons are not consistent in style, though. Sorry about that.
     
