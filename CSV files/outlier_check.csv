@@ -1,0 +1,2156 @@
+"Order ID","Shipping Price","Product ID",Category,CustomerID,"Destination Country"
+10540,1007.64,3,Condiments,QUICK,Germany
+10540,1007.64,26,Confections,QUICK,Germany
+10540,1007.64,38,Beverages,QUICK,Germany
+10540,1007.64,68,Confections,QUICK,Germany
+10372,890.78,20,Confections,QUEEN,Brazil
+10372,890.78,38,Beverages,QUEEN,Brazil
+10372,890.78,60,"Dairy Products",QUEEN,Brazil
+10372,890.78,72,"Dairy Products",QUEEN,Brazil
+11030,830.75,2,Beverages,SAVEA,USA
+11030,830.75,5,Condiments,SAVEA,USA
+11030,830.75,29,"Meat & Poultry",SAVEA,USA
+11030,830.75,59,"Dairy Products",SAVEA,USA
+10691,810.05,1,Beverages,QUICK,Germany
+10691,810.05,29,"Meat & Poultry",QUICK,Germany
+10691,810.05,43,Beverages,QUICK,Germany
+10691,810.05,44,Condiments,QUICK,Germany
+10691,810.05,62,Confections,QUICK,Germany
+10514,789.95,20,Confections,ERNSH,Austria
+10514,789.95,28,Produce,ERNSH,Austria
+10514,789.95,56,"Grains & Cereals",ERNSH,Austria
+10514,789.95,65,Condiments,ERNSH,Austria
+10514,789.95,75,Beverages,ERNSH,Austria
+11017,754.26,3,Condiments,ERNSH,Austria
+11017,754.26,59,"Dairy Products",ERNSH,Austria
+11017,754.26,70,Beverages,ERNSH,Austria
+10816,719.78,38,Beverages,GREAL,USA
+10816,719.78,62,Confections,GREAL,USA
+10479,708.95,38,Beverages,RATTC,USA
+10479,708.95,53,"Meat & Poultry",RATTC,USA
+10479,708.95,59,"Dairy Products",RATTC,USA
+10479,708.95,64,"Grains & Cereals",RATTC,USA
+10983,657.54,13,Seafood,SAVEA,USA
+10983,657.54,57,"Grains & Cereals",SAVEA,USA
+11032,606.19,36,Seafood,WHITC,USA
+11032,606.19,38,Beverages,WHITC,USA
+11032,606.19,59,"Dairy Products",WHITC,USA
+10897,603.54,29,"Meat & Poultry",HUNGO,Ireland
+10897,603.54,30,Seafood,HUNGO,Ireland
+10912,580.91,11,"Dairy Products",HUNGO,Ireland
+10912,580.91,29,"Meat & Poultry",HUNGO,Ireland
+10612,544.08,10,Seafood,SAVEA,USA
+10612,544.08,36,Seafood,SAVEA,USA
+10612,544.08,49,Confections,SAVEA,USA
+10612,544.08,60,"Dairy Products",SAVEA,USA
+10612,544.08,76,Beverages,SAVEA,USA
+10847,487.57,1,Beverages,SAVEA,USA
+10847,487.57,19,Confections,SAVEA,USA
+10847,487.57,37,Seafood,SAVEA,USA
+10847,487.57,45,Seafood,SAVEA,USA
+10847,487.57,60,"Dairy Products",SAVEA,USA
+10847,487.57,71,"Dairy Products",SAVEA,USA
+10634,487.38,7,Produce,FOLIG,France
+10634,487.38,18,Seafood,FOLIG,France
+10634,487.38,51,Produce,FOLIG,France
+10634,487.38,75,Beverages,FOLIG,France
+10633,477.90,12,"Dairy Products",ERNSH,Austria
+10633,477.90,13,Seafood,ERNSH,Austria
+10633,477.90,26,Confections,ERNSH,Austria
+10633,477.90,62,Confections,ERNSH,Austria
+10430,458.78,17,"Meat & Poultry",ERNSH,Austria
+10430,458.78,21,Confections,ERNSH,Austria
+10430,458.78,56,"Grains & Cereals",ERNSH,Austria
+10430,458.78,59,"Dairy Products",ERNSH,Austria
+10841,424.30,10,Seafood,SUPRD,Belgium
+10841,424.30,56,"Grains & Cereals",SUPRD,Belgium
+10841,424.30,59,"Dairy Products",SUPRD,Belgium
+10841,424.30,77,Condiments,SUPRD,Belgium
+10836,411.88,22,"Grains & Cereals",ERNSH,Austria
+10836,411.88,35,Beverages,ERNSH,Austria
+10836,411.88,57,"Grains & Cereals",ERNSH,Austria
+10836,411.88,60,"Dairy Products",ERNSH,Austria
+10836,411.88,64,"Grains & Cereals",ERNSH,Austria
+10941,400.81,31,"Dairy Products",SAVEA,USA
+10941,400.81,62,Confections,SAVEA,USA
+10941,400.81,68,Confections,SAVEA,USA
+10941,400.81,72,"Dairy Products",SAVEA,USA
+10694,398.36,7,Produce,QUICK,Germany
+10694,398.36,59,"Dairy Products",QUICK,Germany
+10694,398.36,70,Beverages,QUICK,Germany
+10678,388.98,12,"Dairy Products",SAVEA,USA
+10678,388.98,33,"Dairy Products",SAVEA,USA
+10678,388.98,41,Seafood,SAVEA,USA
+10678,388.98,54,"Meat & Poultry",SAVEA,USA
+10605,379.13,16,Confections,MEREP,Canada
+10605,379.13,59,"Dairy Products",MEREP,Canada
+10605,379.13,60,"Dairy Products",MEREP,Canada
+10605,379.13,71,"Dairy Products",MEREP,Canada
+10424,370.61,35,Beverages,MEREP,Canada
+10424,370.61,38,Beverages,MEREP,Canada
+10424,370.61,68,Confections,MEREP,Canada
+10510,367.63,29,"Meat & Poultry",SAVEA,USA
+10510,367.63,75,Beverages,SAVEA,USA
+10658,364.15,21,Confections,QUICK,Germany
+10658,364.15,40,Seafood,QUICK,Germany
+10658,364.15,60,"Dairy Products",QUICK,Germany
+10658,364.15,77,Condiments,QUICK,Germany
+10353,360.63,11,"Dairy Products",PICCO,Austria
+10353,360.63,38,Beverages,PICCO,Austria
+10979,353.07,7,Produce,ERNSH,Austria
+10979,353.07,12,"Dairy Products",ERNSH,Austria
+10979,353.07,24,Beverages,ERNSH,Austria
+10979,353.07,27,Confections,ERNSH,Austria
+10979,353.07,31,"Dairy Products",ERNSH,Austria
+10979,353.07,63,Condiments,ERNSH,Austria
+10657,352.69,15,Condiments,SAVEA,USA
+10657,352.69,41,Seafood,SAVEA,USA
+10657,352.69,46,Seafood,SAVEA,USA
+10657,352.69,47,Confections,SAVEA,USA
+10657,352.69,56,"Grains & Cereals",SAVEA,USA
+10657,352.69,60,"Dairy Products",SAVEA,USA
+10776,351.53,31,"Dairy Products",ERNSH,Austria
+10776,351.53,42,"Grains & Cereals",ERNSH,Austria
+10776,351.53,45,Seafood,ERNSH,Austria
+10776,351.53,51,Produce,ERNSH,Austria
+10511,350.64,4,Condiments,BONAP,France
+10511,350.64,7,Produce,BONAP,France
+10511,350.64,8,Condiments,BONAP,France
+10865,348.14,38,Beverages,QUICK,Germany
+10865,348.14,39,Beverages,QUICK,Germany
+10530,339.22,17,"Meat & Poultry",PICCO,Austria
+10530,339.22,43,Beverages,PICCO,Austria
+10530,339.22,61,Condiments,PICCO,Austria
+10530,339.22,76,Beverages,PICCO,Austria
+10762,328.74,39,Beverages,FOLKO,Sweden
+10762,328.74,47,Confections,FOLKO,Sweden
+10762,328.74,51,Produce,FOLKO,Sweden
+10762,328.74,56,"Grains & Cereals",FOLKO,Sweden
+10817,306.07,26,Confections,KOENE,Germany
+10817,306.07,38,Beverages,KOENE,Germany
+10817,306.07,40,Seafood,KOENE,Germany
+10817,306.07,62,Confections,KOENE,Germany
+10688,299.09,10,Seafood,VAFFE,Denmark
+10688,299.09,28,Produce,VAFFE,Denmark
+10688,299.09,34,Beverages,VAFFE,Denmark
+11021,297.18,2,Beverages,QUICK,Germany
+11021,297.18,20,Confections,QUICK,Germany
+11021,297.18,26,Confections,QUICK,Germany
+11021,297.18,51,Produce,QUICK,Germany
+11021,297.18,72,"Dairy Products",QUICK,Germany
+10687,296.43,9,"Meat & Poultry",HUNGO,Ireland
+10687,296.43,29,"Meat & Poultry",HUNGO,Ireland
+10687,296.43,36,Seafood,HUNGO,Ireland
+10359,288.43,16,Confections,SEVES,UK
+10359,288.43,31,"Dairy Products",SEVES,UK
+10359,288.43,60,"Dairy Products",SEVES,UK
+10889,280.61,11,"Dairy Products",RATTC,USA
+10889,280.61,38,Beverages,RATTC,USA
+11056,278.96,7,Produce,EASTC,UK
+11056,278.96,55,"Meat & Poultry",EASTC,UK
+11056,278.96,60,"Dairy Products",EASTC,UK
+10962,275.79,7,Produce,QUICK,Germany
+10962,275.79,13,Seafood,QUICK,Germany
+10962,275.79,53,"Meat & Poultry",QUICK,Germany
+10962,275.79,69,"Dairy Products",QUICK,Germany
+10962,275.79,76,Beverages,QUICK,Germany
+10698,272.47,11,"Dairy Products",ERNSH,Austria
+10698,272.47,17,"Meat & Poultry",ERNSH,Austria
+10698,272.47,29,"Meat & Poultry",ERNSH,Austria
+10698,272.47,65,Condiments,ERNSH,Austria
+10698,272.47,70,Beverages,ERNSH,Austria
+11072,258.64,2,Beverages,ERNSH,Austria
+11072,258.64,41,Seafood,ERNSH,Austria
+11072,258.64,50,Confections,ERNSH,Austria
+11072,258.64,64,"Grains & Cereals",ERNSH,Austria
+10305,257.62,18,Seafood,OLDWO,USA
+10305,257.62,29,"Meat & Poultry",OLDWO,USA
+10305,257.62,39,Beverages,OLDWO,USA
+10802,257.26,30,Seafood,SIMOB,Denmark
+10802,257.26,51,Produce,SIMOB,Denmark
+10802,257.26,55,"Meat & Poultry",SIMOB,Denmark
+10802,257.26,62,Confections,SIMOB,Denmark
+10555,252.49,14,Produce,SAVEA,USA
+10555,252.49,19,Confections,SAVEA,USA
+10555,252.49,24,Beverages,SAVEA,USA
+10555,252.49,51,Produce,SAVEA,USA
+10555,252.49,56,"Grains & Cereals",SAVEA,USA
+10787,249.93,2,Beverages,LAMAI,France
+10787,249.93,29,"Meat & Poultry",LAMAI,France
+10345,249.06,8,Condiments,QUICK,Germany
+10345,249.06,19,Confections,QUICK,Germany
+10345,249.06,42,"Grains & Cereals",QUICK,Germany
+10524,244.79,10,Seafood,BERGS,Sweden
+10524,244.79,30,Seafood,BERGS,Sweden
+10524,244.79,43,Beverages,BERGS,Sweden
+10524,244.79,54,"Meat & Poultry",BERGS,Sweden
+10742,243.73,3,Condiments,BOTTM,Canada
+10742,243.73,60,"Dairy Products",BOTTM,Canada
+10742,243.73,72,"Dairy Products",BOTTM,Canada
+11012,242.95,19,Confections,FRANK,Germany
+11012,242.95,60,"Dairy Products",FRANK,Germany
+11012,242.95,71,"Dairy Products",FRANK,Germany
+10561,242.21,44,Condiments,FOLKO,Sweden
+10561,242.21,51,Produce,FOLKO,Sweden
+10805,237.34,34,Beverages,THEBI,USA
+10805,237.34,38,Beverages,THEBI,USA
+10748,232.55,23,"Grains & Cereals",SAVEA,USA
+10748,232.55,40,Seafood,SAVEA,USA
+10748,232.55,56,"Grains & Cereals",SAVEA,USA
+10666,232.42,29,"Meat & Poultry",RICSU,Switzerland
+10666,232.42,65,Condiments,RICSU,Switzerland
+10286,229.24,35,Beverages,QUICK,Germany
+10286,229.24,62,Confections,QUICK,Germany
+11031,227.22,1,Beverages,SAVEA,USA
+11031,227.22,13,Seafood,SAVEA,USA
+11031,227.22,24,Beverages,SAVEA,USA
+11031,227.22,64,"Grains & Cereals",SAVEA,USA
+11031,227.22,71,"Dairy Products",SAVEA,USA
+10701,220.31,59,"Dairy Products",HUNGO,Ireland
+10701,220.31,71,"Dairy Products",HUNGO,Ireland
+10701,220.31,76,Beverages,HUNGO,Ireland
+10518,218.15,24,Beverages,TORTU,Mexico
+10518,218.15,38,Beverages,TORTU,Mexico
+10518,218.15,44,Condiments,TORTU,Mexico
+10986,217.86,11,"Dairy Products",OCEAN,Argentina
+10986,217.86,20,Confections,OCEAN,Argentina
+10986,217.86,76,Beverages,OCEAN,Argentina
+10986,217.86,77,Condiments,OCEAN,Argentina
+10324,214.27,16,Confections,SAVEA,USA
+10324,214.27,35,Beverages,SAVEA,USA
+10324,214.27,46,Seafood,SAVEA,USA
+10324,214.27,59,"Dairy Products",SAVEA,USA
+10324,214.27,63,Condiments,SAVEA,USA
+10845,212.98,23,"Grains & Cereals",QUICK,Germany
+10845,212.98,35,Beverages,QUICK,Germany
+10845,212.98,42,"Grains & Cereals",QUICK,Germany
+10845,212.98,58,Seafood,QUICK,Germany
+10845,212.98,64,"Grains & Cereals",QUICK,Germany
+10984,211.22,16,Confections,SAVEA,USA
+10984,211.22,24,Beverages,SAVEA,USA
+10984,211.22,36,Seafood,SAVEA,USA
+10709,210.80,8,Condiments,GOURL,Brazil
+10709,210.80,51,Produce,GOURL,Brazil
+10709,210.80,60,"Dairy Products",GOURL,Brazil
+10490,210.19,59,"Dairy Products",HILAA,Venezuela
+10490,210.19,68,Confections,HILAA,Venezuela
+10490,210.19,75,Beverages,HILAA,Venezuela
+10267,208.58,40,Seafood,FRANK,Germany
+10267,208.58,59,"Dairy Products",FRANK,Germany
+10267,208.58,76,Beverages,FRANK,Germany
+10977,208.50,39,Beverages,FOLKO,Sweden
+10977,208.50,47,Confections,FOLKO,Sweden
+10977,208.50,51,Produce,FOLKO,Sweden
+10977,208.50,63,Condiments,FOLKO,Sweden
+10515,204.47,9,"Meat & Poultry",QUICK,Germany
+10515,204.47,16,Confections,QUICK,Germany
+10515,204.47,27,Confections,QUICK,Germany
+10515,204.47,33,"Dairy Products",QUICK,Germany
+10515,204.47,60,"Dairy Products",QUICK,Germany
+10670,203.48,23,"Grains & Cereals",FRANK,Germany
+10670,203.48,46,Seafood,FRANK,Germany
+10670,203.48,67,Beverages,FRANK,Germany
+10670,203.48,73,Seafood,FRANK,Germany
+10670,203.48,75,Beverages,FRANK,Germany
+11007,202.24,8,Condiments,PRINI,Portugal
+11007,202.24,29,"Meat & Poultry",PRINI,Portugal
+11007,202.24,42,"Grains & Cereals",PRINI,Portugal
+10637,201.29,11,"Dairy Products",QUEEN,Brazil
+10637,201.29,50,Confections,QUEEN,Brazil
+10637,201.29,56,"Grains & Cereals",QUEEN,Brazil
+10607,200.24,7,Produce,SAVEA,USA
+10607,200.24,17,"Meat & Poultry",SAVEA,USA
+10607,200.24,33,"Dairy Products",SAVEA,USA
+10607,200.24,40,Seafood,SAVEA,USA
+10607,200.24,72,"Dairy Products",SAVEA,USA
+11001,197.30,7,Produce,FOLKO,Sweden
+11001,197.30,22,"Grains & Cereals",FOLKO,Sweden
+11001,197.30,46,Seafood,FOLKO,Sweden
+11001,197.30,55,"Meat & Poultry",FOLKO,Sweden
+10369,195.68,29,"Meat & Poultry",SPLIR,USA
+10369,195.68,56,"Grains & Cereals",SPLIR,USA
+10546,194.72,7,Produce,VICTE,France
+10546,194.72,35,Beverages,VICTE,France
+10546,194.72,62,Confections,VICTE,France
+10588,194.67,18,Seafood,QUICK,Germany
+10588,194.67,42,"Grains & Cereals",QUICK,Germany
+10981,193.37,38,Beverages,HANAR,Brazil
+10329,191.67,19,Confections,SPLIR,USA
+10329,191.67,30,Seafood,SPLIR,USA
+10329,191.67,38,Beverages,SPLIR,USA
+10329,191.67,56,"Grains & Cereals",SPLIR,USA
+10868,191.27,26,Confections,QUEEN,Brazil
+10868,191.27,35,Beverages,QUEEN,Brazil
+10868,191.27,49,Confections,QUEEN,Brazil
+10451,189.09,55,"Meat & Poultry",QUICK,Germany
+10451,189.09,64,"Grains & Cereals",QUICK,Germany
+10451,189.09,65,Condiments,QUICK,Germany
+10451,189.09,77,Condiments,QUICK,Germany
+10570,188.99,11,"Dairy Products",MEREP,Canada
+10570,188.99,56,"Grains & Cereals",MEREP,Canada
+10857,188.85,3,Condiments,BERGS,Sweden
+10857,188.85,26,Confections,BERGS,Sweden
+10857,188.85,29,"Meat & Poultry",BERGS,Sweden
+10533,188.04,4,Condiments,FOLKO,Sweden
+10533,188.04,72,"Dairy Products",FOLKO,Sweden
+10533,188.04,73,Seafood,FOLKO,Sweden
+10987,185.48,7,Produce,EASTC,UK
+10987,185.48,43,Beverages,EASTC,UK
+10987,185.48,72,"Dairy Products",EASTC,UK
+10395,184.41,46,Seafood,HILAA,Venezuela
+10395,184.41,53,"Meat & Poultry",HILAA,Venezuela
+10395,184.41,69,"Dairy Products",HILAA,Venezuela
+10361,183.17,39,Beverages,QUICK,Germany
+10361,183.17,60,"Dairy Products",QUICK,Germany
+10455,180.45,39,Beverages,WARTH,Finland
+10455,180.45,53,"Meat & Poultry",WARTH,Finland
+10455,180.45,61,Condiments,WARTH,Finland
+10455,180.45,71,"Dairy Products",WARTH,Finland
+10641,179.61,2,Beverages,HILAA,Venezuela
+10641,179.61,40,Seafood,HILAA,Venezuela
+10547,178.43,32,"Dairy Products",SEVES,UK
+10547,178.43,36,Seafood,SEVES,UK
+10650,176.81,30,Seafood,FAMIA,Brazil
+10650,176.81,53,"Meat & Poultry",FAMIA,Brazil
+10650,176.81,54,"Meat & Poultry",FAMIA,Brazil
+10921,176.48,35,Beverages,VAFFE,Denmark
+10921,176.48,63,Condiments,VAFFE,Denmark
+10872,175.32,55,"Meat & Poultry",GODOS,Spain
+10872,175.32,62,Confections,GODOS,Spain
+10872,175.32,64,"Grains & Cereals",GODOS,Spain
+10872,175.32,65,Condiments,GODOS,Spain
+10593,174.20,20,Confections,LEHMS,Germany
+10593,174.20,69,"Dairy Products",LEHMS,Germany
+10593,174.20,76,Beverages,LEHMS,Germany
+10852,174.05,2,Beverages,RATTC,USA
+10852,174.05,17,"Meat & Poultry",RATTC,USA
+10852,174.05,62,Confections,RATTC,USA
+10549,171.24,31,"Dairy Products",QUICK,Germany
+10549,171.24,45,Seafood,QUICK,Germany
+10549,171.24,51,Produce,QUICK,Germany
+10855,170.97,16,Confections,OLDWO,USA
+10855,170.97,31,"Dairy Products",OLDWO,USA
+10855,170.97,56,"Grains & Cereals",OLDWO,USA
+10855,170.97,65,Condiments,OLDWO,USA
+10718,170.88,12,"Dairy Products",KOENE,Germany
+10718,170.88,16,Confections,KOENE,Germany
+10718,170.88,36,Seafood,KOENE,Germany
+10718,170.88,62,Confections,KOENE,Germany
+10384,168.64,20,Confections,BERGS,Sweden
+10384,168.64,60,"Dairy Products",BERGS,Sweden
+10298,168.22,2,Beverages,HUNGO,Ireland
+10298,168.22,36,Seafood,HUNGO,Ireland
+10298,168.22,59,"Dairy Products",HUNGO,Ireland
+10298,168.22,62,Confections,HUNGO,Ireland
+10713,167.05,10,Seafood,SAVEA,USA
+10713,167.05,26,Confections,SAVEA,USA
+10713,167.05,45,Seafood,SAVEA,USA
+10713,167.05,46,Seafood,SAVEA,USA
+10340,166.31,18,Seafood,BONAP,France
+10340,166.31,41,Seafood,BONAP,France
+10340,166.31,43,Beverages,BONAP,France
+10823,163.97,11,"Dairy Products",LILAS,Venezuela
+10823,163.97,57,"Grains & Cereals",LILAS,Venezuela
+10823,163.97,59,"Dairy Products",LILAS,Venezuela
+10823,163.97,77,Condiments,LILAS,Venezuela
+10904,162.95,58,Seafood,WHITC,USA
+10904,162.95,62,Confections,WHITC,USA
+10895,162.75,24,Beverages,ERNSH,Austria
+10895,162.75,39,Beverages,ERNSH,Austria
+10895,162.75,40,Seafood,ERNSH,Austria
+10895,162.75,60,"Dairy Products",ERNSH,Austria
+10351,162.33,38,Beverages,ERNSH,Austria
+10351,162.33,41,Seafood,ERNSH,Austria
+10351,162.33,44,Condiments,ERNSH,Austria
+10351,162.33,65,Condiments,ERNSH,Austria
+10851,160.55,2,Beverages,RICAR,Brazil
+10851,160.55,25,Confections,RICAR,Brazil
+10851,160.55,57,"Grains & Cereals",RICAR,Brazil
+10851,160.55,59,"Dairy Products",RICAR,Brazil
+10638,158.44,45,Seafood,LINOD,Venezuela
+10638,158.44,65,Condiments,LINOD,Venezuela
+10638,158.44,72,"Dairy Products",LINOD,Venezuela
+10766,157.55,2,Beverages,OTTIK,Germany
+10766,157.55,7,Produce,OTTIK,Germany
+10766,157.55,68,Confections,OTTIK,Germany
+10436,156.66,46,Seafood,BLONP,France
+10436,156.66,56,"Grains & Cereals",BLONP,France
+10436,156.66,64,"Grains & Cereals",BLONP,France
+10436,156.66,75,Beverages,BLONP,France
+10404,155.97,26,Confections,MAGAA,Italy
+10404,155.97,42,"Grains & Cereals",MAGAA,Italy
+10404,155.97,49,Confections,MAGAA,Italy
+10760,155.64,25,Confections,MAISD,Belgium
+10760,155.64,27,Confections,MAISD,Belgium
+10760,155.64,43,Beverages,MAISD,Belgium
+10829,154.72,2,Beverages,ISLAT,UK
+10829,154.72,8,Condiments,ISLAT,UK
+10829,154.72,13,Seafood,ISLAT,UK
+10829,154.72,60,"Dairy Products",ISLAT,UK
+10618,154.68,6,Condiments,MEREP,Canada
+10618,154.68,56,"Grains & Cereals",MEREP,Canada
+10618,154.68,68,Confections,MEREP,Canada
+10703,152.30,2,Beverages,FOLKO,Sweden
+10703,152.30,59,"Dairy Products",FOLKO,Sweden
+10703,152.30,73,Seafood,FOLKO,Sweden
+10924,151.52,10,Seafood,BERGS,Sweden
+10924,151.52,28,Produce,BERGS,Sweden
+10924,151.52,75,Beverages,BERGS,Sweden
+10316,150.15,41,Seafood,RATTC,USA
+10316,150.15,62,Confections,RATTC,USA
+10553,149.49,11,"Dairy Products",WARTH,Finland
+10553,149.49,16,Confections,WARTH,Finland
+10553,149.49,22,"Grains & Cereals",WARTH,Finland
+10553,149.49,31,"Dairy Products",WARTH,Finland
+10553,149.49,35,Beverages,WARTH,Finland
+11036,149.47,13,Seafood,DRACD,Germany
+11036,149.47,59,"Dairy Products",DRACD,Germany
+10461,148.61,21,Confections,LILAS,Venezuela
+10461,148.61,30,Seafood,LILAS,Venezuela
+10461,148.61,55,"Meat & Poultry",LILAS,Venezuela
+10255,148.33,2,Beverages,RICSU,Switzerland
+10255,148.33,16,Confections,RICSU,Switzerland
+10255,148.33,36,Seafood,RICSU,Switzerland
+10255,148.33,59,"Dairy Products",RICSU,Switzerland
+10294,147.26,1,Beverages,RATTC,USA
+10294,147.26,17,"Meat & Poultry",RATTC,USA
+10294,147.26,43,Beverages,RATTC,USA
+10294,147.26,60,"Dairy Products",RATTC,USA
+10294,147.26,75,Beverages,RATTC,USA
+10458,147.06,26,Confections,SUPRD,Belgium
+10458,147.06,28,Produce,SUPRD,Belgium
+10458,147.06,43,Beverages,SUPRD,Belgium
+10458,147.06,56,"Grains & Cereals",SUPRD,Belgium
+10458,147.06,71,"Dairy Products",SUPRD,Belgium
+10768,146.32,22,"Grains & Cereals",AROUT,UK
+10768,146.32,31,"Dairy Products",AROUT,UK
+10768,146.32,60,"Dairy Products",AROUT,UK
+10768,146.32,71,"Dairy Products",AROUT,UK
+10263,146.06,16,Confections,ERNSH,Austria
+10263,146.06,24,Beverages,ERNSH,Austria
+10263,146.06,30,Seafood,ERNSH,Austria
+10263,146.06,74,Produce,ERNSH,Austria
+10684,145.63,40,Seafood,OTTIK,Germany
+10684,145.63,47,Confections,OTTIK,Germany
+10684,145.63,60,"Dairy Products",OTTIK,Germany
+10764,145.45,3,Condiments,ERNSH,Austria
+10764,145.45,39,Beverages,ERNSH,Austria
+10465,145.04,24,Beverages,VAFFE,Denmark
+10465,145.04,29,"Meat & Poultry",VAFFE,Denmark
+10465,145.04,40,Seafood,VAFFE,Denmark
+10465,145.04,45,Seafood,VAFFE,Denmark
+10465,145.04,50,Confections,VAFFE,Denmark
+10965,144.38,51,Produce,OLDWO,USA
+10869,143.28,1,Beverages,SEVES,UK
+10869,143.28,11,"Dairy Products",SEVES,UK
+10869,143.28,23,"Grains & Cereals",SEVES,UK
+10869,143.28,68,Confections,SEVES,UK
+10646,142.33,1,Beverages,HUNGO,Ireland
+10646,142.33,10,Seafood,HUNGO,Ireland
+10646,142.33,71,"Dairy Products",HUNGO,Ireland
+10646,142.33,77,Condiments,HUNGO,Ireland
+10346,142.08,17,"Meat & Poultry",RATTC,USA
+10346,142.08,56,"Grains & Cereals",RATTC,USA
+11002,141.16,13,Seafood,SAVEA,USA
+11002,141.16,35,Beverages,SAVEA,USA
+11002,141.16,42,"Grains & Cereals",SAVEA,USA
+11002,141.16,55,"Meat & Poultry",SAVEA,USA
+10729,141.06,1,Beverages,LINOD,Venezuela
+10729,141.06,21,Confections,LINOD,Venezuela
+10729,141.06,50,Confections,LINOD,Venezuela
+10258,140.51,2,Beverages,ERNSH,Austria
+10258,140.51,5,Condiments,ERNSH,Austria
+10258,140.51,32,"Dairy Products",ERNSH,Austria
+10452,140.26,28,Produce,SAVEA,USA
+10452,140.26,44,Condiments,SAVEA,USA
+10693,139.34,9,"Meat & Poultry",WHITC,USA
+10693,139.34,54,"Meat & Poultry",WHITC,USA
+10693,139.34,69,"Dairy Products",WHITC,USA
+10693,139.34,73,Seafood,WHITC,USA
+10626,138.69,53,"Meat & Poultry",BERGS,Sweden
+10626,138.69,60,"Dairy Products",BERGS,Sweden
+10626,138.69,71,"Dairy Products",BERGS,Sweden
+10758,138.17,26,Confections,RICSU,Switzerland
+10758,138.17,52,"Grains & Cereals",RICSU,Switzerland
+10758,138.17,70,Beverages,RICSU,Switzerland
+10800,137.44,11,"Dairy Products",SEVES,UK
+10800,137.44,51,Produce,SEVES,UK
+10800,137.44,54,"Meat & Poultry",SEVES,UK
+10419,137.35,60,"Dairy Products",RICSU,Switzerland
+10419,137.35,69,"Dairy Products",RICSU,Switzerland
+10270,136.54,36,Seafood,WARTH,Finland
+10270,136.54,43,Beverages,WARTH,Finland
+11070,136.00,1,Beverages,LEHMS,Germany
+11070,136.00,2,Beverages,LEHMS,Germany
+11070,136.00,16,Confections,LEHMS,Germany
+11070,136.00,31,"Dairy Products",LEHMS,Germany
+10706,135.63,16,Confections,OLDWO,USA
+10706,135.63,43,Beverages,OLDWO,USA
+10706,135.63,59,"Dairy Products",OLDWO,USA
+10396,135.35,23,"Grains & Cereals",FRANK,Germany
+10396,135.35,71,"Dairy Products",FRANK,Germany
+10396,135.35,72,"Dairy Products",FRANK,Germany
+10932,134.64,16,Confections,BONAP,France
+10932,134.64,62,Confections,BONAP,France
+10932,134.64,72,"Dairy Products",BONAP,France
+10932,134.64,75,Beverages,BONAP,France
+10360,131.70,28,Produce,BLONP,France
+10360,131.70,29,"Meat & Poultry",BLONP,France
+10360,131.70,38,Beverages,BLONP,France
+10360,131.70,49,Confections,BLONP,France
+10360,131.70,54,"Meat & Poultry",BLONP,France
+10814,130.94,41,Seafood,VICTE,France
+10814,130.94,43,Beverages,VICTE,France
+10814,130.94,48,Confections,VICTE,France
+10814,130.94,61,Condiments,VICTE,France
+10751,130.79,26,Confections,RICSU,Switzerland
+10751,130.79,30,Seafood,RICSU,Switzerland
+10751,130.79,50,Confections,RICSU,Switzerland
+10751,130.79,73,Seafood,RICSU,Switzerland
+10575,127.34,59,"Dairy Products",MORGK,Germany
+10575,127.34,63,Condiments,MORGK,Germany
+10575,127.34,72,"Dairy Products",MORGK,Germany
+10575,127.34,76,Beverages,MORGK,Germany
+10795,126.66,16,Confections,ERNSH,Austria
+10795,126.66,17,"Meat & Poultry",ERNSH,Austria
+10393,126.56,2,Beverages,SAVEA,USA
+10393,126.56,14,Produce,SAVEA,USA
+10393,126.56,25,Confections,SAVEA,USA
+10393,126.56,26,Confections,SAVEA,USA
+10393,126.56,31,"Dairy Products",SAVEA,USA
+10390,126.38,31,"Dairy Products",ERNSH,Austria
+10390,126.38,35,Beverages,ERNSH,Austria
+10390,126.38,46,Seafood,ERNSH,Austria
+10390,126.38,72,"Dairy Products",ERNSH,Austria
+10277,125.77,28,Produce,MORGK,Germany
+10277,125.77,62,Confections,MORGK,Germany
+10783,124.98,31,"Dairy Products",HANAR,Brazil
+10783,124.98,38,Beverages,HANAR,Brazil
+10373,124.12,58,Seafood,HUNGO,Ireland
+10373,124.12,71,"Dairy Products",HUNGO,Ireland
+11023,123.83,7,Produce,BSBEV,UK
+11023,123.83,43,Beverages,BSBEV,UK
+10392,122.46,69,"Dairy Products",PICCO,Austria
+10971,121.82,29,"Meat & Poultry",FRANR,France
+10554,120.97,16,Confections,OTTIK,Germany
+10554,120.97,23,"Grains & Cereals",OTTIK,Germany
+10554,120.97,62,Confections,OTTIK,Germany
+10554,120.97,77,Condiments,OTTIK,Germany
+11055,120.92,24,Beverages,HILAA,Venezuela
+11055,120.92,25,Confections,HILAA,Venezuela
+11055,120.92,51,Produce,HILAA,Venezuela
+11055,120.92,57,"Grains & Cereals",HILAA,Venezuela
+10892,120.27,59,"Dairy Products",MAISD,Belgium
+10990,117.61,21,Confections,ERNSH,Austria
+10990,117.61,34,Beverages,ERNSH,Austria
+10990,117.61,55,"Meat & Poultry",ERNSH,Austria
+10990,117.61,61,Condiments,ERNSH,Austria
+10747,117.33,31,"Dairy Products",PICCO,Austria
+10747,117.33,41,Seafood,PICCO,Austria
+10747,117.33,63,Condiments,PICCO,Austria
+10747,117.33,69,"Dairy Products",PICCO,Austria
+10616,116.53,38,Beverages,GREAL,USA
+10616,116.53,56,"Grains & Cereals",GREAL,USA
+10616,116.53,70,Beverages,GREAL,USA
+10616,116.53,71,"Dairy Products",GREAL,USA
+10572,116.43,16,Confections,BERGS,Sweden
+10572,116.43,32,"Dairy Products",BERGS,Sweden
+10572,116.43,40,Seafood,BERGS,Sweden
+10572,116.43,75,Beverages,BERGS,Sweden
+10894,116.13,13,Seafood,SAVEA,USA
+10894,116.13,69,"Dairy Products",SAVEA,USA
+10894,116.13,75,Beverages,SAVEA,USA
+10663,113.15,40,Seafood,BONAP,France
+10663,113.15,42,"Grains & Cereals",BONAP,France
+10663,113.15,51,Produce,BONAP,France
+10871,112.27,6,Condiments,BONAP,France
+10871,112.27,16,Confections,BONAP,France
+10871,112.27,17,"Meat & Poultry",BONAP,France
+10660,111.29,20,Confections,HUNGC,USA
+10786,110.87,8,Condiments,QUEEN,Brazil
+10786,110.87,30,Seafood,QUEEN,Brazil
+10786,110.87,75,Beverages,QUEEN,Brazil
+10343,110.37,64,"Grains & Cereals",LEHMS,Germany
+10343,110.37,68,Confections,LEHMS,Germany
+10343,110.37,76,Beverages,LEHMS,Germany
+10733,110.11,14,Produce,BERGS,Sweden
+10733,110.11,28,Produce,BERGS,Sweden
+10733,110.11,52,"Grains & Cereals",BERGS,Sweden
+10866,109.11,2,Beverages,BERGS,Sweden
+10866,109.11,24,Beverages,BERGS,Sweden
+10866,109.11,30,Seafood,BERGS,Sweden
+10337,108.26,23,"Grains & Cereals",FRANK,Germany
+10337,108.26,26,Confections,FRANK,Germany
+10337,108.26,36,Seafood,FRANK,Germany
+10337,108.26,37,Seafood,FRANK,Germany
+10337,108.26,72,"Dairy Products",FRANK,Germany
+10406,108.04,1,Beverages,QUEEN,Brazil
+10406,108.04,21,Confections,QUEEN,Brazil
+10406,108.04,28,Produce,QUEEN,Brazil
+10406,108.04,36,Seafood,QUEEN,Brazil
+10406,108.04,40,Seafood,QUEEN,Brazil
+10303,107.83,40,Seafood,GODOS,Spain
+10303,107.83,65,Condiments,GODOS,Spain
+10303,107.83,68,Confections,GODOS,Spain
+10627,107.46,62,Confections,SAVEA,USA
+10627,107.46,73,Seafood,SAVEA,USA
+10659,105.81,31,"Dairy Products",QUEEN,Brazil
+10659,105.81,40,Seafood,QUEEN,Brazil
+10659,105.81,70,Beverages,QUEEN,Brazil
+10513,105.65,21,Confections,WANDK,Germany
+10513,105.65,32,"Dairy Products",WANDK,Germany
+10513,105.65,61,Condiments,WANDK,Germany
+10957,105.36,30,Seafood,HILAA,Venezuela
+10957,105.36,35,Beverages,HILAA,Venezuela
+10957,105.36,64,"Grains & Cereals",HILAA,Venezuela
+10961,104.47,52,"Grains & Cereals",QUEEN,Brazil
+10961,104.47,76,Beverages,QUEEN,Brazil
+10696,102.55,17,"Meat & Poultry",WHITC,USA
+10696,102.55,46,Seafood,WHITC,USA
+10499,102.02,28,Produce,LILAS,Venezuela
+10499,102.02,49,Confections,LILAS,Venezuela
+10368,101.95,21,Confections,ERNSH,Austria
+10368,101.95,28,Produce,ERNSH,Austria
+10368,101.95,57,"Grains & Cereals",ERNSH,Austria
+10368,101.95,64,"Grains & Cereals",ERNSH,Austria
+10789,100.60,18,Seafood,FOLIG,France
+10789,100.60,35,Beverages,FOLIG,France
+10789,100.60,63,Condiments,FOLIG,France
+10789,100.60,68,Confections,FOLIG,France
+10854,100.22,10,Seafood,ERNSH,Austria
+10854,100.22,13,Seafood,ERNSH,Austria
+10421,99.23,19,Confections,QUEDE,Brazil
+10421,99.23,26,Confections,QUEDE,Brazil
+10421,99.23,53,"Meat & Poultry",QUEDE,Brazil
+10421,99.23,77,Condiments,QUEDE,Brazil
+10272,98.03,20,Confections,RATTC,USA
+10272,98.03,31,"Dairy Products",RATTC,USA
+10272,98.03,72,"Dairy Products",RATTC,USA
+10623,97.18,14,Produce,FRANK,Germany
+10623,97.18,19,Confections,FRANK,Germany
+10623,97.18,21,Confections,FRANK,Germany
+10623,97.18,24,Beverages,FRANK,Germany
+10623,97.18,35,Beverages,FRANK,Germany
+10801,97.09,17,"Meat & Poultry",BOLID,Spain
+10801,97.09,29,"Meat & Poultry",BOLID,Spain
+10595,96.78,35,Beverages,ERNSH,Austria
+10595,96.78,61,Condiments,ERNSH,Austria
+10595,96.78,69,"Dairy Products",ERNSH,Austria
+10557,96.72,64,"Grains & Cereals",LEHMS,Germany
+10557,96.72,75,Beverages,LEHMS,Germany
+10731,96.65,21,Confections,CHOPS,Switzerland
+10731,96.65,51,Produce,CHOPS,Switzerland
+10686,96.50,17,"Meat & Poultry",PICCO,Austria
+10686,96.50,26,Confections,PICCO,Austria
+10773,96.43,17,"Meat & Poultry",ERNSH,Austria
+10773,96.43,31,"Dairy Products",ERNSH,Austria
+10773,96.43,75,Beverages,ERNSH,Austria
+10999,96.35,41,Seafood,OTTIK,Germany
+10999,96.35,51,Produce,OTTIK,Germany
+10999,96.35,77,Condiments,OTTIK,Germany
+10362,96.04,25,Confections,BONAP,France
+10362,96.04,51,Produce,BONAP,France
+10362,96.04,54,"Meat & Poultry",BONAP,France
+10672,95.75,38,Beverages,BERGS,Sweden
+10672,95.75,71,"Dairy Products",BERGS,Sweden
+10413,95.66,1,Beverages,LAMAI,France
+10413,95.66,62,Confections,LAMAI,France
+10413,95.66,76,Beverages,LAMAI,France
+10624,94.80,28,Produce,THECR,USA
+10624,94.80,29,"Meat & Poultry",THECR,USA
+10624,94.80,44,Condiments,THECR,USA
+10382,94.77,5,Condiments,ERNSH,Austria
+10382,94.77,18,Seafood,ERNSH,Austria
+10382,94.77,29,"Meat & Poultry",ERNSH,Austria
+10382,94.77,33,"Dairy Products",ERNSH,Austria
+10382,94.77,74,Produce,ERNSH,Austria
+10387,93.63,24,Beverages,SANTG,Norway
+10387,93.63,28,Produce,SANTG,Norway
+10387,93.63,59,"Dairy Products",SANTG,Norway
+10387,93.63,71,"Dairy Products",SANTG,Norway
+10653,93.25,16,Confections,FRANK,Germany
+10653,93.25,60,"Dairy Products",FRANK,Germany
+10278,92.69,44,Condiments,BERGS,Sweden
+10278,92.69,59,"Dairy Products",BERGS,Sweden
+10278,92.69,63,Condiments,BERGS,Sweden
+10278,92.69,73,Seafood,BERGS,Sweden
+10519,91.76,10,Seafood,CHOPS,Switzerland
+10519,91.76,56,"Grains & Cereals",CHOPS,Switzerland
+10519,91.76,60,"Dairy Products",CHOPS,Switzerland
+10985,91.51,16,Confections,HUNGO,Ireland
+10985,91.51,18,Seafood,HUNGO,Ireland
+10985,91.51,32,"Dairy Products",HUNGO,Ireland
+10407,91.48,11,"Dairy Products",OTTIK,Germany
+10407,91.48,69,"Dairy Products",OTTIK,Germany
+10407,91.48,71,"Dairy Products",OTTIK,Germany
+10772,91.28,29,"Meat & Poultry",LEHMS,Germany
+10772,91.28,59,"Dairy Products",LEHMS,Germany
+10619,91.05,21,Confections,MEREP,Canada
+10619,91.05,22,"Grains & Cereals",MEREP,Canada
+10884,90.97,21,Confections,LETSS,USA
+10884,90.97,56,"Grains & Cereals",LETSS,USA
+10884,90.97,65,Condiments,LETSS,USA
+10828,90.85,20,Confections,RANCH,Argentina
+10828,90.85,38,Beverages,RANCH,Argentina
+10712,89.93,53,"Meat & Poultry",HUNGO,Ireland
+10712,89.93,56,"Grains & Cereals",HUNGO,Ireland
+10727,89.90,17,"Meat & Poultry",REGGC,Italy
+10727,89.90,56,"Grains & Cereals",REGGC,Italy
+10727,89.90,59,"Dairy Products",REGGC,Italy
+10398,89.16,35,Beverages,SAVEA,USA
+10398,89.16,55,"Meat & Poultry",SAVEA,USA
+10464,89.00,4,Condiments,FURIB,Portugal
+10464,89.00,43,Beverages,FURIB,Portugal
+10464,89.00,56,"Grains & Cereals",FURIB,Portugal
+10464,89.00,60,"Dairy Products",FURIB,Portugal
+10566,88.40,11,"Dairy Products",BLONP,France
+10566,88.40,18,Seafood,BLONP,France
+10566,88.40,76,Beverages,BLONP,France
+10880,88.01,23,"Grains & Cereals",FOLKO,Sweden
+10880,88.01,61,Condiments,FOLKO,Sweden
+10880,88.01,70,Beverages,FOLKO,Sweden
+10964,87.38,18,Seafood,SPECD,France
+10964,87.38,38,Beverages,SPECD,France
+10964,87.38,69,"Dairy Products",SPECD,France
+10328,87.03,59,"Dairy Products",FURIB,Portugal
+10328,87.03,65,Condiments,FURIB,Portugal
+10328,87.03,68,Confections,FURIB,Portugal
+10440,86.53,2,Beverages,SAVEA,USA
+10440,86.53,16,Confections,SAVEA,USA
+10440,86.53,29,"Meat & Poultry",SAVEA,USA
+10440,86.53,61,Condiments,SAVEA,USA
+11059,85.80,13,Seafood,RICAR,Brazil
+11059,85.80,17,"Meat & Poultry",RICAR,Brazil
+11059,85.80,60,"Dairy Products",RICAR,Brazil
+10629,85.46,29,"Meat & Poultry",GODOS,Spain
+10629,85.46,64,"Grains & Cereals",GODOS,Spain
+10573,84.84,17,"Meat & Poultry",ANTON,Mexico
+10573,84.84,34,Beverages,ANTON,Mexico
+10573,84.84,53,"Meat & Poultry",ANTON,Mexico
+10283,84.81,15,Condiments,LILAS,Venezuela
+10283,84.81,19,Confections,LILAS,Venezuela
+10283,84.81,60,"Dairy Products",LILAS,Venezuela
+10283,84.81,72,"Dairy Products",LILAS,Venezuela
+11033,84.74,53,"Meat & Poultry",RICSU,Switzerland
+11033,84.74,69,"Dairy Products",RICSU,Switzerland
+10338,84.21,17,"Meat & Poultry",OLDWO,USA
+10338,84.21,30,Seafood,OLDWO,USA
+10400,83.93,29,"Meat & Poultry",EASTC,UK
+10400,83.93,35,Beverages,EASTC,UK
+10400,83.93,49,Confections,EASTC,UK
+10474,83.49,14,Produce,PERIC,Mexico
+10474,83.49,28,Produce,PERIC,Mexico
+10474,83.49,40,Seafood,PERIC,Mexico
+10474,83.49,75,Beverages,PERIC,Mexico
+10552,83.22,69,"Dairy Products",HILAA,Venezuela
+10552,83.22,75,Beverages,HILAA,Venezuela
+10257,81.91,27,Confections,HILAA,Venezuela
+10257,81.91,39,Beverages,HILAA,Venezuela
+10257,81.91,77,Condiments,HILAA,Venezuela
+10740,81.88,28,Produce,WHITC,USA
+10740,81.88,35,Beverages,WHITC,USA
+10740,81.88,45,Seafood,WHITC,USA
+10740,81.88,56,"Grains & Cereals",WHITC,USA
+10830,81.83,6,Condiments,TRADH,Brazil
+10830,81.83,39,Beverages,TRADH,Brazil
+10830,81.83,60,"Dairy Products",TRADH,Brazil
+10830,81.83,68,Confections,TRADH,Brazil
+11068,81.75,28,Produce,QUEEN,Brazil
+11068,81.75,43,Beverages,QUEEN,Brazil
+11068,81.75,77,Condiments,QUEEN,Brazil
+11063,81.73,34,Beverages,HUNGO,Ireland
+11063,81.73,40,Seafood,HUNGO,Ireland
+11063,81.73,41,Seafood,HUNGO,Ireland
+10611,80.65,1,Beverages,WOLZA,Poland
+10611,80.65,2,Beverages,WOLZA,Poland
+10611,80.65,60,"Dairy Products",WOLZA,Poland
+10290,79.70,5,Condiments,COMMI,Brazil
+10290,79.70,29,"Meat & Poultry",COMMI,Brazil
+10290,79.70,49,Confections,COMMI,Brazil
+10290,79.70,77,Condiments,COMMI,Brazil
+11008,79.46,28,Produce,ERNSH,Austria
+11008,79.46,34,Beverages,ERNSH,Austria
+11008,79.46,71,"Dairy Products",ERNSH,Austria
+10606,79.40,4,Condiments,TRADH,Brazil
+10606,79.40,55,"Meat & Poultry",TRADH,Brazil
+10606,79.40,62,Confections,TRADH,Brazil
+10750,79.30,14,Produce,WARTH,Finland
+10750,79.30,45,Seafood,WARTH,Finland
+10750,79.30,59,"Dairy Products",WARTH,Finland
+10825,79.25,26,Confections,DRACD,Germany
+10825,79.25,53,"Meat & Poultry",DRACD,Germany
+10537,78.85,31,"Dairy Products",RICSU,Switzerland
+10537,78.85,51,Produce,RICSU,Switzerland
+10537,78.85,58,Seafood,RICSU,Switzerland
+10537,78.85,72,"Dairy Products",RICSU,Switzerland
+10537,78.85,73,Seafood,RICSU,Switzerland
+10667,78.09,69,"Dairy Products",ERNSH,Austria
+10667,78.09,71,"Dairy Products",ERNSH,Austria
+10326,77.92,4,Condiments,BOLID,Spain
+10326,77.92,57,"Grains & Cereals",BOLID,Spain
+10326,77.92,75,Beverages,BOLID,Spain
+10893,77.78,8,Condiments,KOENE,Germany
+10893,77.78,24,Beverages,KOENE,Germany
+10893,77.78,29,"Meat & Poultry",KOENE,Germany
+10893,77.78,30,Seafood,KOENE,Germany
+10893,77.78,36,Seafood,KOENE,Germany
+10523,77.63,17,"Meat & Poultry",SEVES,UK
+10523,77.63,20,Confections,SEVES,UK
+10523,77.63,37,Seafood,SEVES,UK
+10523,77.63,41,Seafood,SEVES,UK
+10285,76.83,1,Beverages,QUICK,Germany
+10285,76.83,40,Seafood,QUICK,Germany
+10285,76.83,53,"Meat & Poultry",QUICK,Germany
+10284,76.56,27,Confections,LEHMS,Germany
+10284,76.56,44,Condiments,LEHMS,Germany
+10284,76.56,60,"Dairy Products",LEHMS,Germany
+10284,76.56,67,Beverages,LEHMS,Germany
+10939,76.33,2,Beverages,MAGAA,Italy
+10939,76.33,67,Beverages,MAGAA,Italy
+10681,76.13,19,Confections,GREAL,USA
+10681,76.13,21,Confections,GREAL,USA
+10681,76.13,64,"Grains & Cereals",GREAL,USA
+10859,76.10,24,Beverages,FRANK,Germany
+10859,76.10,54,"Meat & Poultry",FRANK,Germany
+10859,76.10,64,"Grains & Cereals",FRANK,Germany
+10273,76.07,10,Seafood,QUICK,Germany
+10273,76.07,31,"Dairy Products",QUICK,Germany
+10273,76.07,33,"Dairy Products",QUICK,Germany
+10273,76.07,40,Seafood,QUICK,Germany
+10273,76.07,76,Beverages,QUICK,Germany
+10580,75.89,14,Produce,OTTIK,Germany
+10580,75.89,41,Seafood,OTTIK,Germany
+10580,75.89,65,Condiments,OTTIK,Germany
+10968,74.60,12,"Dairy Products",ERNSH,Austria
+10968,74.60,24,Beverages,ERNSH,Austria
+10968,74.60,64,"Grains & Cereals",ERNSH,Austria
+10722,74.58,2,Beverages,SAVEA,USA
+10722,74.58,31,"Dairy Products",SAVEA,USA
+10722,74.58,68,Confections,SAVEA,USA
+10722,74.58,75,Beverages,SAVEA,USA
+10532,74.46,30,Seafood,EASTC,UK
+10532,74.46,66,Condiments,EASTC,UK
+10949,74.44,6,Condiments,BOTTM,Canada
+10949,74.44,10,Seafood,BOTTM,Canada
+10949,74.44,17,"Meat & Poultry",BOTTM,Canada
+10949,74.44,62,Confections,BOTTM,Canada
+11024,74.36,26,Confections,EASTC,UK
+11024,74.36,33,"Dairy Products",EASTC,UK
+11024,74.36,65,Condiments,EASTC,UK
+11024,74.36,71,"Dairy Products",EASTC,UK
+10314,74.16,32,"Dairy Products",RATTC,USA
+10314,74.16,58,Seafood,RATTC,USA
+10314,74.16,62,Confections,RATTC,USA
+10997,73.91,32,"Dairy Products",LILAS,Venezuela
+10997,73.91,46,Seafood,LILAS,Venezuela
+10997,73.91,52,"Grains & Cereals",LILAS,Venezuela
+10433,73.83,56,"Grains & Cereals",PRINI,Portugal
+10403,73.79,16,Confections,ERNSH,Austria
+10403,73.79,48,Confections,ERNSH,Austria
+10756,73.21,18,Seafood,SPLIR,USA
+10756,73.21,36,Seafood,SPLIR,USA
+10756,73.21,68,Confections,SPLIR,USA
+10756,73.21,69,"Dairy Products",SPLIR,USA
+10781,73.16,54,"Meat & Poultry",WARTH,Finland
+10781,73.16,56,"Grains & Cereals",WARTH,Finland
+10781,73.16,74,Produce,WARTH,Finland
+10441,73.02,27,Confections,OLDWO,USA
+10558,72.97,47,Confections,AROUT,UK
+10558,72.97,51,Produce,AROUT,UK
+10558,72.97,52,"Grains & Cereals",AROUT,UK
+10558,72.97,53,"Meat & Poultry",AROUT,UK
+10558,72.97,73,Seafood,AROUT,UK
+10551,72.95,16,Confections,FURIB,Portugal
+10551,72.95,35,Beverages,FURIB,Portugal
+10551,72.95,44,Condiments,FURIB,Portugal
+10831,72.19,19,Confections,SANTG,Norway
+10831,72.19,35,Beverages,SANTG,Norway
+10831,72.19,38,Beverages,SANTG,Norway
+10831,72.19,43,Beverages,SANTG,Norway
+10364,71.97,69,"Dairy Products",EASTC,UK
+10364,71.97,71,"Dairy Products",EASTC,UK
+11046,71.64,12,"Dairy Products",WANDK,Germany
+11046,71.64,32,"Dairy Products",WANDK,Germany
+11046,71.64,35,Beverages,WANDK,Germany
+10833,71.49,7,Produce,OTTIK,Germany
+10833,71.49,31,"Dairy Products",OTTIK,Germany
+10833,71.49,53,"Meat & Poultry",OTTIK,Germany
+10487,71.07,19,Confections,QUEEN,Brazil
+10487,71.07,26,Confections,QUEEN,Brazil
+10487,71.07,54,"Meat & Poultry",QUEEN,Brazil
+11045,70.58,33,"Dairy Products",BOTTM,Canada
+11045,70.58,51,Produce,BOTTM,Canada
+10417,70.29,38,Beverages,SIMOB,Denmark
+10417,70.29,46,Seafood,SIMOB,Denmark
+10417,70.29,68,Confections,SIMOB,Denmark
+10417,70.29,77,Condiments,SIMOB,Denmark
+10784,70.09,36,Seafood,MAGAA,Italy
+10784,70.09,39,Beverages,MAGAA,Italy
+10784,70.09,72,"Dairy Products",MAGAA,Italy
+10835,69.53,59,"Dairy Products",ALFKI,Germany
+10835,69.53,77,Condiments,ALFKI,Germany
+10502,69.32,45,Seafood,PERIC,Mexico
+10502,69.32,53,"Meat & Poultry",PERIC,Mexico
+10502,69.32,67,Beverages,PERIC,Mexico
+10744,69.19,40,Seafood,VAFFE,Denmark
+10447,68.66,19,Confections,RICAR,Brazil
+10447,68.66,65,Condiments,RICAR,Brazil
+10447,68.66,71,"Dairy Products",RICAR,Brazil
+10541,68.65,24,Beverages,HANAR,Brazil
+10541,68.65,38,Beverages,HANAR,Brazil
+10541,68.65,65,Condiments,HANAR,Brazil
+10541,68.65,71,"Dairy Products",HANAR,Brazil
+10475,68.52,31,"Dairy Products",SUPRD,Belgium
+10475,68.52,66,Condiments,SUPRD,Belgium
+10475,68.52,76,Beverages,SUPRD,Belgium
+10923,68.26,42,"Grains & Cereals",LAMAI,France
+10923,68.26,43,Beverages,LAMAI,France
+10923,68.26,67,Beverages,LAMAI,France
+10402,67.88,23,"Grains & Cereals",ERNSH,Austria
+10402,67.88,63,Condiments,ERNSH,Austria
+11052,67.26,43,Beverages,HANAR,Brazil
+11052,67.26,61,Condiments,HANAR,Brazil
+10529,66.69,55,"Meat & Poultry",MAISD,Belgium
+10529,66.69,68,Confections,MAISD,Belgium
+10529,66.69,69,"Dairy Products",MAISD,Belgium
+10268,66.29,29,"Meat & Poultry",GROSR,Venezuela
+10268,66.29,72,"Dairy Products",GROSR,Venezuela
+10494,65.99,56,"Grains & Cereals",COMMI,Brazil
+10250,65.83,41,Seafood,HANAR,Brazil
+10250,65.83,51,Produce,HANAR,Brazil
+10250,65.83,65,Condiments,HANAR,Brazil
+10994,65.53,59,"Dairy Products",VAFFE,Denmark
+10818,65.48,32,"Dairy Products",MAGAA,Italy
+10818,65.48,41,Seafood,MAGAA,Italy
+10700,65.10,1,Beverages,SAVEA,USA
+10700,65.10,34,Beverages,SAVEA,USA
+10700,65.10,68,Confections,SAVEA,USA
+10700,65.10,71,"Dairy Products",SAVEA,USA
+10769,65.06,41,Seafood,VAFFE,Denmark
+10769,65.06,52,"Grains & Cereals",VAFFE,Denmark
+10769,65.06,61,Condiments,VAFFE,Denmark
+10769,65.06,62,Confections,VAFFE,Denmark
+11039,65.00,28,Produce,LINOD,Venezuela
+11039,65.00,35,Beverages,LINOD,Venezuela
+11039,65.00,49,Confections,LINOD,Venezuela
+11039,65.00,57,"Grains & Cereals",LINOD,Venezuela
+10325,64.86,6,Condiments,KOENE,Germany
+10325,64.86,13,Seafood,KOENE,Germany
+10325,64.86,14,Produce,KOENE,Germany
+10325,64.86,31,"Dairy Products",KOENE,Germany
+10325,64.86,72,"Dairy Products",KOENE,Germany
+10470,64.56,18,Seafood,BONAP,France
+10470,64.56,23,"Grains & Cereals",BONAP,France
+10470,64.56,64,"Grains & Cereals",BONAP,France
+10319,64.50,17,"Meat & Poultry",TORTU,Mexico
+10319,64.50,28,Produce,TORTU,Mexico
+10319,64.50,76,Beverages,TORTU,Mexico
+10485,64.45,2,Beverages,LINOD,Venezuela
+10485,64.45,3,Condiments,LINOD,Venezuela
+10485,64.45,55,"Meat & Poultry",LINOD,Venezuela
+10485,64.45,70,Beverages,LINOD,Venezuela
+10481,64.33,49,Confections,RICAR,Brazil
+10481,64.33,60,"Dairy Products",RICAR,Brazil
+10350,64.19,50,Confections,LAMAI,France
+10350,64.19,69,"Dairy Products",LAMAI,France
+10304,63.79,49,Confections,TORTU,Mexico
+10304,63.79,59,"Dairy Products",TORTU,Mexico
+10304,63.79,71,"Dairy Products",TORTU,Mexico
+10916,63.77,16,Confections,RANCH,Argentina
+10916,63.77,32,"Dairy Products",RANCH,Argentina
+10916,63.77,57,"Grains & Cereals",RANCH,Argentina
+10827,63.54,10,Seafood,BONAP,France
+10827,63.54,39,Beverages,BONAP,France
+10327,63.36,2,Beverages,FOLKO,Sweden
+10327,63.36,11,"Dairy Products",FOLKO,Sweden
+10327,63.36,30,Seafood,FOLKO,Sweden
+10327,63.36,58,Seafood,FOLKO,Sweden
+10715,63.20,10,Seafood,BONAP,France
+10715,63.20,71,"Dairy Products",BONAP,France
+10492,62.89,25,Confections,BOTTM,Canada
+10492,62.89,42,"Grains & Cereals",BOTTM,Canada
+10516,62.78,18,Seafood,HUNGO,Ireland
+10516,62.78,41,Seafood,HUNGO,Ireland
+10516,62.78,42,"Grains & Cereals",HUNGO,Ireland
+10922,62.74,17,"Meat & Poultry",HANAR,Brazil
+10922,62.74,24,Beverages,HANAR,Brazil
+10587,62.52,26,Confections,QUEDE,Brazil
+10587,62.52,35,Beverages,QUEDE,Brazil
+10587,62.52,77,Condiments,QUEDE,Brazil
+10967,62.22,19,Confections,TOMSP,Germany
+10967,62.22,49,Confections,TOMSP,Germany
+10901,62.09,41,Seafood,HILAA,Venezuela
+10901,62.09,71,"Dairy Products",HILAA,Venezuela
+10749,61.53,56,"Grains & Cereals",ISLAT,UK
+10749,61.53,59,"Dairy Products",ISLAT,UK
+10749,61.53,76,Beverages,ISLAT,UK
+10988,61.14,7,Produce,RATTC,USA
+10988,61.14,62,Confections,RATTC,USA
+10692,61.02,63,Condiments,ALFKI,Germany
+10563,60.43,36,Seafood,RICAR,Brazil
+10563,60.43,52,"Grains & Cereals",RICAR,Brazil
+10876,60.42,46,Seafood,BONAP,France
+10876,60.42,64,"Grains & Cereals",BONAP,France
+10397,60.26,21,Confections,PRINI,Portugal
+10397,60.26,51,Produce,PRINI,Portugal
+10469,60.18,2,Beverages,WHITC,USA
+10469,60.18,16,Confections,WHITC,USA
+10469,60.18,44,Condiments,WHITC,USA
+10812,59.78,31,"Dairy Products",REGGC,Italy
+10812,59.78,72,"Dairy Products",REGGC,Italy
+10812,59.78,77,Condiments,REGGC,Italy
+11050,59.41,76,Beverages,FOLKO,Sweden
+10838,59.28,1,Beverages,LINOD,Venezuela
+10838,59.28,18,Seafood,LINOD,Venezuela
+10838,59.28,36,Seafood,LINOD,Venezuela
+10717,59.25,21,Confections,FRANK,Germany
+10717,59.25,54,"Meat & Poultry",FRANK,Germany
+10717,59.25,69,"Dairy Products",FRANK,Germany
+10584,59.14,31,"Dairy Products",BLONP,France
+10504,59.13,2,Beverages,WHITC,USA
+10504,59.13,21,Confections,WHITC,USA
+10504,59.13,53,"Meat & Poultry",WHITC,USA
+10504,59.13,61,Condiments,WHITC,USA
+11009,59.11,24,Beverages,GODOS,Spain
+11009,59.11,36,Seafood,GODOS,Spain
+11009,59.11,60,"Dairy Products",GODOS,Spain
+10569,58.98,31,"Dairy Products",RATTC,USA
+10569,58.98,76,Beverages,RATTC,USA
+10536,58.88,12,"Dairy Products",LEHMS,Germany
+10536,58.88,31,"Dairy Products",LEHMS,Germany
+10536,58.88,33,"Dairy Products",LEHMS,Germany
+10536,58.88,60,"Dairy Products",LEHMS,Germany
+10526,58.59,1,Beverages,WARTH,Finland
+10526,58.59,13,Seafood,WARTH,Finland
+10526,58.59,56,"Grains & Cereals",WARTH,Finland
+10856,58.43,2,Beverages,ANTON,Mexico
+10856,58.43,42,"Grains & Cereals",ANTON,Mexico
+10728,58.33,30,Seafood,QUEEN,Brazil
+10728,58.33,40,Seafood,QUEEN,Brazil
+10728,58.33,55,"Meat & Poultry",QUEEN,Brazil
+10728,58.33,60,"Dairy Products",QUEEN,Brazil
+10601,58.30,13,Seafood,HILAA,Venezuela
+10601,58.30,59,"Dairy Products",HILAA,Venezuela
+10253,58.17,31,"Dairy Products",HANAR,Brazil
+10253,58.17,39,Beverages,HANAR,Brazil
+10253,58.17,49,Confections,HANAR,Brazil
+10779,58.13,16,Confections,MORGK,Germany
+10779,58.13,62,Confections,MORGK,Germany
+10724,57.75,10,Seafood,MEREP,Canada
+10724,57.75,61,Condiments,MEREP,Canada
+10656,57.15,14,Produce,GREAL,USA
+10656,57.15,44,Condiments,GREAL,USA
+10656,57.15,47,Confections,GREAL,USA
+10429,56.63,50,Confections,HUNGO,Ireland
+10429,56.63,63,Condiments,HUNGO,Ireland
+10846,56.46,4,Condiments,SUPRD,Belgium
+10846,56.46,70,Beverages,SUPRD,Belgium
+10846,56.46,74,Produce,SUPRD,Belgium
+10591,55.92,3,Condiments,VAFFE,Denmark
+10591,55.92,7,Produce,VAFFE,Denmark
+10591,55.92,54,"Meat & Poultry",VAFFE,Denmark
+10265,55.28,17,"Meat & Poultry",BLONP,France
+10265,55.28,70,Beverages,BLONP,France
+10654,55.26,4,Condiments,BERGS,Sweden
+10654,55.26,39,Beverages,BERGS,Sweden
+10654,55.26,54,"Meat & Poultry",BERGS,Sweden
+10803,55.23,19,Confections,WELLI,Brazil
+10803,55.23,25,Confections,WELLI,Brazil
+10803,55.23,59,"Dairy Products",WELLI,Brazil
+11000,55.12,4,Condiments,RATTC,USA
+11000,55.12,24,Beverages,RATTC,USA
+11000,55.12,77,Condiments,RATTC,USA
+10260,55.09,41,Seafood,OTTIK,Germany
+10260,55.09,57,"Grains & Cereals",OTTIK,Germany
+10260,55.09,62,Confections,OTTIK,Germany
+10260,55.09,70,Beverages,OTTIK,Germany
+10342,54.83,2,Beverages,FRANK,Germany
+10342,54.83,31,"Dairy Products",FRANK,Germany
+10342,54.83,36,Seafood,FRANK,Germany
+10342,54.83,55,"Meat & Poultry",FRANK,Germany
+10842,54.42,11,"Dairy Products",TORTU,Mexico
+10842,54.42,43,Beverages,TORTU,Mexico
+10842,54.42,68,Confections,TORTU,Mexico
+10842,54.42,70,Beverages,TORTU,Mexico
+10933,54.15,53,"Meat & Poultry",ISLAT,UK
+10933,54.15,61,Condiments,ISLAT,UK
+10853,53.83,18,Seafood,BLAUS,Germany
+10354,53.80,1,Beverages,PERIC,Mexico
+10354,53.80,29,"Meat & Poultry",PERIC,Mexico
+10449,53.30,10,Seafood,BLONP,France
+10449,53.30,52,"Grains & Cereals",BLONP,France
+10449,53.30,62,Confections,BLONP,France
+10862,53.23,11,"Dairy Products",LEHMS,Germany
+10862,53.23,52,"Grains & Cereals",LEHMS,Germany
+10909,53.05,7,Produce,SANTG,Norway
+10909,53.05,16,Confections,SANTG,Norway
+10909,53.05,41,Seafood,SANTG,Norway
+11053,53.05,18,Seafood,PICCO,Austria
+11053,53.05,32,"Dairy Products",PICCO,Austria
+11053,53.05,64,"Grains & Cereals",PICCO,Austria
+10944,52.92,11,"Dairy Products",BOTTM,Canada
+10944,52.92,44,Condiments,BOTTM,Canada
+10944,52.92,56,"Grains & Cereals",BOTTM,Canada
+10332,52.84,18,Seafood,MEREP,Canada
+10332,52.84,42,"Grains & Cereals",MEREP,Canada
+10332,52.84,47,Confections,MEREP,Canada
+11027,52.52,24,Beverages,BOTTM,Canada
+11027,52.52,62,Confections,BOTTM,Canada
+10858,52.51,7,Produce,LACOR,France
+10858,52.51,27,Confections,LACOR,France
+10858,52.51,70,Beverages,LACOR,France
+10711,52.41,19,Confections,SAVEA,USA
+10711,52.41,41,Seafood,SAVEA,USA
+10711,52.41,53,"Meat & Poultry",SAVEA,USA
+10888,51.87,2,Beverages,GODOS,Spain
+10888,51.87,68,Confections,GODOS,Spain
+10719,51.44,18,Seafood,LETSS,USA
+10719,51.44,30,Seafood,LETSS,USA
+10719,51.44,54,"Meat & Poultry",LETSS,USA
+10252,51.30,20,Confections,SUPRD,Belgium
+10252,51.30,33,"Dairy Products",SUPRD,Belgium
+10252,51.30,60,"Dairy Products",SUPRD,Belgium
+10622,50.97,2,Beverages,RICAR,Brazil
+10622,50.97,68,Confections,RICAR,Brazil
+10958,49.56,5,Condiments,OCEAN,Argentina
+10958,49.56,7,Produce,OCEAN,Argentina
+10958,49.56,72,"Dairy Products",OCEAN,Argentina
+10850,49.19,25,Confections,VICTE,France
+10850,49.19,33,"Dairy Products",VICTE,France
+10850,49.19,70,Beverages,VICTE,France
+10721,48.92,44,Condiments,QUICK,Germany
+10918,48.83,1,Beverages,BOTTM,Canada
+10918,48.83,60,"Dairy Products",BOTTM,Canada
+10603,48.77,22,"Grains & Cereals",SAVEA,USA
+10603,48.77,49,Confections,SAVEA,USA
+10262,48.29,5,Condiments,RATTC,USA
+10262,48.29,7,Produce,RATTC,USA
+10262,48.29,56,"Grains & Cereals",RATTC,USA
+11041,48.22,2,Beverages,CHOPS,Switzerland
+11041,48.22,63,Condiments,CHOPS,Switzerland
+10774,48.20,31,"Dairy Products",FOLKO,Sweden
+10774,48.20,66,Condiments,FOLKO,Sweden
+10543,48.17,12,"Dairy Products",LILAS,Venezuela
+10543,48.17,23,"Grains & Cereals",LILAS,Venezuela
+10442,47.94,11,"Dairy Products",ERNSH,Austria
+10442,47.94,54,"Meat & Poultry",ERNSH,Austria
+10442,47.94,66,Condiments,ERNSH,Austria
+11029,47.84,56,"Grains & Cereals",CHOPS,Switzerland
+11029,47.84,63,Condiments,CHOPS,Switzerland
+10935,47.59,1,Beverages,WELLI,Brazil
+10935,47.59,18,Seafood,WELLI,Brazil
+10935,47.59,23,"Grains & Cereals",WELLI,Brazil
+10635,47.46,4,Condiments,MAGAA,Italy
+10635,47.46,5,Condiments,MAGAA,Italy
+10635,47.46,22,"Grains & Cereals",MAGAA,Italy
+10507,47.45,43,Beverages,ANTON,Mexico
+10507,47.45,48,Confections,ANTON,Mexico
+10389,47.42,10,Seafood,BOTTM,Canada
+10389,47.42,55,"Meat & Poultry",BOTTM,Canada
+10389,47.42,62,Confections,BOTTM,Canada
+10389,47.42,70,Beverages,BOTTM,Canada
+10813,47.38,2,Beverages,RICAR,Brazil
+10813,47.38,46,Seafood,RICAR,Brazil
+10309,47.30,4,Condiments,HUNGO,Ireland
+10309,47.30,6,Condiments,HUNGO,Ireland
+10309,47.30,42,"Grains & Cereals",HUNGO,Ireland
+10309,47.30,43,Beverages,HUNGO,Ireland
+10309,47.30,71,"Dairy Products",HUNGO,Ireland
+10668,47.22,31,"Dairy Products",WANDK,Germany
+10668,47.22,55,"Meat & Poultry",WANDK,Germany
+10668,47.22,64,"Grains & Cereals",WANDK,Germany
+11026,47.09,18,Seafood,FRANS,Italy
+11026,47.09,51,Produce,FRANS,Italy
+10496,46.77,31,"Dairy Products",TRADH,Brazil
+10878,46.69,20,Confections,QUICK,Germany
+11047,46.62,1,Beverages,EASTC,UK
+11047,46.62,5,Condiments,EASTC,UK
+10995,46.00,51,Produce,PERIC,Mexico
+10995,46.00,60,"Dairy Products",PERIC,Mexico
+10735,45.97,61,Condiments,LETSS,USA
+10735,45.97,77,Condiments,LETSS,USA
+10471,45.59,7,Produce,BSBEV,UK
+10471,45.59,56,"Grains & Cereals",BSBEV,UK
+10647,45.54,19,Confections,QUEDE,Brazil
+10647,45.54,39,Beverages,QUEDE,Brazil
+10808,45.53,56,"Grains & Cereals",OLDWO,USA
+10808,45.53,76,Beverages,OLDWO,USA
+10697,45.52,19,Confections,LINOD,Venezuela
+10697,45.52,35,Beverages,LINOD,Venezuela
+10697,45.52,58,Seafood,LINOD,Venezuela
+10697,45.52,70,Beverages,LINOD,Venezuela
+10522,45.33,1,Beverages,LEHMS,Germany
+10522,45.33,8,Condiments,LEHMS,Germany
+10522,45.33,30,Seafood,LEHMS,Germany
+10522,45.33,40,Seafood,LEHMS,Germany
+10600,45.13,54,"Meat & Poultry",HUNGC,USA
+10600,45.13,73,Seafood,HUNGC,USA
+10301,45.08,40,Seafood,WANDK,Germany
+10301,45.08,56,"Grains & Cereals",WANDK,Germany
+10379,45.03,41,Seafood,QUEDE,Brazil
+10379,45.03,63,Condiments,QUEDE,Brazil
+10379,45.03,65,Condiments,QUEDE,Brazil
+11004,44.84,26,Confections,MAISD,Belgium
+11004,44.84,76,Beverages,MAISD,Belgium
+10590,44.77,1,Beverages,MEREP,Canada
+10590,44.77,77,Condiments,MEREP,Canada
+11066,44.72,16,Confections,WHITC,USA
+11066,44.72,19,Confections,WHITC,USA
+11066,44.72,34,Beverages,WHITC,USA
+10956,44.65,21,Confections,BLAUS,Germany
+10956,44.65,47,Confections,BLAUS,Germany
+10956,44.65,51,Produce,BLAUS,Germany
+10598,44.42,27,Confections,RATTC,USA
+10598,44.42,71,"Dairy Products",RATTC,USA
+10431,44.17,17,"Meat & Poultry",BOTTM,Canada
+10431,44.17,40,Seafood,BOTTM,Canada
+10431,44.17,47,Confections,BOTTM,Canada
+10902,44.15,55,"Meat & Poultry",FOLKO,Sweden
+10902,44.15,62,Confections,FOLKO,Sweden
+10420,44.12,9,"Meat & Poultry",WELLI,Brazil
+10420,44.12,13,Seafood,WELLI,Brazil
+10420,44.12,70,Beverages,WELLI,Brazil
+10420,44.12,73,Seafood,WELLI,Brazil
+10468,44.12,30,Seafood,KOENE,Germany
+10468,44.12,43,Beverages,KOENE,Germany
+10736,44.10,65,Condiments,HUNGO,Ireland
+10736,44.10,75,Beverages,HUNGO,Ireland
+10625,43.90,14,Produce,ANATR,Mexico
+10625,43.90,42,"Grains & Cereals",ANATR,Mexico
+10625,43.90,60,"Dairy Products",ANATR,Mexico
+11020,43.30,10,Seafood,OTTIK,Germany
+10832,43.26,13,Seafood,LAMAI,France
+10832,43.26,25,Confections,LAMAI,France
+10832,43.26,44,Condiments,LAMAI,France
+10832,43.26,64,"Grains & Cereals",LAMAI,France
+10765,42.74,65,Condiments,QUICK,Germany
+10788,42.70,19,Confections,QUICK,Germany
+10788,42.70,75,Beverages,QUICK,Germany
+10500,42.68,15,Condiments,LAMAI,France
+10500,42.68,28,Produce,LAMAI,France
+10780,42.13,70,Beverages,LILAS,Venezuela
+10780,42.13,77,Condiments,LILAS,Venezuela
+10335,42.11,2,Beverages,HUNGO,Ireland
+10335,42.11,31,"Dairy Products",HUNGO,Ireland
+10335,42.11,32,"Dairy Products",HUNGO,Ireland
+10335,42.11,51,Produce,HUNGO,Ireland
+10355,41.95,24,Beverages,AROUT,UK
+10355,41.95,57,"Grains & Cereals",AROUT,UK
+10527,41.90,4,Condiments,QUICK,Germany
+10527,41.90,36,Seafood,QUICK,Germany
+10642,41.89,21,Confections,SIMOB,Denmark
+10642,41.89,61,Condiments,SIMOB,Denmark
+10315,41.76,34,Beverages,ISLAT,UK
+10315,41.76,70,Beverages,ISLAT,UK
+10632,41.38,2,Beverages,WANDK,Germany
+10632,41.38,33,"Dairy Products",WANDK,Germany
+10251,41.34,22,"Grains & Cereals",VICTE,France
+10251,41.34,57,"Grains & Cereals",VICTE,France
+10251,41.34,65,Condiments,VICTE,France
+10952,40.42,6,Condiments,ALFKI,Germany
+10952,40.42,28,Produce,ALFKI,Germany
+11034,40.32,21,Confections,OLDWO,USA
+11034,40.32,44,Condiments,OLDWO,USA
+11034,40.32,61,Condiments,OLDWO,USA
+10312,40.26,28,Produce,WANDK,Germany
+10312,40.26,43,Beverages,WANDK,Germany
+10312,40.26,53,"Meat & Poultry",WANDK,Germany
+10312,40.26,75,Beverages,WANDK,Germany
+10926,39.92,11,"Dairy Products",ANATR,Mexico
+10926,39.92,13,Seafood,ANATR,Mexico
+10926,39.92,19,Confections,ANATR,Mexico
+10926,39.92,72,"Dairy Products",ANATR,Mexico
+10448,38.82,26,Confections,RANCH,Argentina
+10448,38.82,40,Seafood,RANCH,Argentina
+10639,38.64,18,Seafood,SANTG,Norway
+10991,38.51,2,Beverages,QUICK,Germany
+10991,38.51,70,Beverages,QUICK,Germany
+10991,38.51,76,Beverages,QUICK,Germany
+11076,38.28,6,Condiments,BONAP,France
+11076,38.28,14,Produce,BONAP,France
+11076,38.28,19,Confections,BONAP,France
+10848,38.24,5,Condiments,CONSH,UK
+10848,38.24,9,"Meat & Poultry",CONSH,UK
+10911,38.19,1,Beverages,GODOS,Spain
+10911,38.19,17,"Meat & Poultry",GODOS,Spain
+10911,38.19,67,Beverages,GODOS,Spain
+10910,38.11,19,Confections,WILMK,Finland
+10910,38.11,49,Confections,WILMK,Finland
+10910,38.11,61,Condiments,WILMK,Finland
+10877,38.06,16,Confections,RICAR,Brazil
+10877,38.06,18,Seafood,RICAR,Brazil
+10976,37.97,28,Produce,HILAA,Venezuela
+10574,37.60,33,"Dairy Products",TRAIH,USA
+10574,37.60,40,Seafood,TRAIH,USA
+10574,37.60,62,Confections,TRAIH,USA
+10574,37.60,64,"Grains & Cereals",TRAIH,USA
+10820,37.52,56,"Grains & Cereals",RATTC,USA
+10763,37.35,21,Confections,FOLIG,France
+10763,37.35,22,"Grains & Cereals",FOLIG,France
+10763,37.35,24,Beverages,FOLIG,France
+10356,36.71,31,"Dairy Products",WANDK,Germany
+10356,36.71,55,"Meat & Poultry",WANDK,Germany
+10356,36.71,69,"Dairy Products",WANDK,Germany
+10903,36.71,13,Seafood,HANAR,Brazil
+10903,36.71,65,Condiments,HANAR,Brazil
+10903,36.71,68,Confections,HANAR,Brazil
+10821,36.68,35,Beverages,SPLIR,USA
+10821,36.68,51,Produce,SPLIR,USA
+10560,36.65,30,Seafood,FRANK,Germany
+10560,36.65,62,Confections,FRANK,Germany
+10497,36.21,56,"Grains & Cereals",LEHMS,Germany
+10497,36.21,72,"Dairy Products",LEHMS,Germany
+10497,36.21,77,Condiments,LEHMS,Germany
+10682,36.13,33,"Dairy Products",ANTON,Mexico
+10682,36.13,66,Condiments,ANTON,Mexico
+10682,36.13,75,Beverages,ANTON,Mexico
+10839,35.43,58,Seafood,TRADH,Brazil
+10839,35.43,72,"Dairy Products",TRADH,Brazil
+10597,35.12,24,Beverages,PICCO,Austria
+10597,35.12,57,"Grains & Cereals",PICCO,Austria
+10597,35.12,65,Condiments,PICCO,Austria
+10380,35.03,30,Seafood,HUNGO,Ireland
+10380,35.03,53,"Meat & Poultry",HUNGO,Ireland
+10380,35.03,60,"Dairy Products",HUNGO,Ireland
+10380,35.03,70,Beverages,HUNGO,Ireland
+10357,34.88,10,Seafood,LILAS,Venezuela
+10357,34.88,26,Confections,LILAS,Venezuela
+10357,34.88,60,"Dairy Products",LILAS,Venezuela
+10388,34.86,45,Seafood,SEVES,UK
+10388,34.86,52,"Grains & Cereals",SEVES,UK
+10388,34.86,53,"Meat & Poultry",SEVES,UK
+10405,34.82,3,Condiments,LINOD,Venezuela
+10989,34.76,6,Condiments,QUEDE,Brazil
+10989,34.76,11,"Dairy Products",QUEDE,Brazil
+10989,34.76,41,Seafood,QUEDE,Brazil
+10320,34.57,71,"Dairy Products",WARTH,Finland
+10383,34.24,13,Seafood,AROUT,UK
+10383,34.24,50,Confections,AROUT,UK
+10383,34.24,56,"Grains & Cereals",AROUT,UK
+10567,33.97,31,"Dairy Products",HUNGO,Ireland
+10567,33.97,51,Produce,HUNGO,Ireland
+10567,33.97,59,"Dairy Products",HUNGO,Ireland
+10929,33.93,21,Confections,FRANK,Germany
+10929,33.93,75,Beverages,FRANK,Germany
+10929,33.93,77,Condiments,FRANK,Germany
+11016,33.80,31,"Dairy Products",AROUT,UK
+11016,33.80,36,Seafood,AROUT,UK
+10685,33.75,10,Seafood,GOURL,Brazil
+10685,33.75,41,Seafood,GOURL,Brazil
+10685,33.75,47,Confections,GOURL,Brazil
+10936,33.68,36,Seafood,GREAL,USA
+10797,33.35,11,"Dairy Products",DRACD,Germany
+10913,33.05,4,Condiments,QUEEN,Brazil
+10913,33.05,33,"Dairy Products",QUEEN,Brazil
+10913,33.05,58,Seafood,QUEEN,Brazil
+11013,32.99,23,"Grains & Cereals",ROMEY,Spain
+11013,32.99,42,"Grains & Cereals",ROMEY,Spain
+11013,32.99,45,Seafood,ROMEY,Spain
+11013,32.99,68,Confections,ROMEY,Spain
+10908,32.96,7,Produce,REGGC,Italy
+10908,32.96,52,"Grains & Cereals",REGGC,Italy
+10978,32.82,8,Condiments,MAISD,Belgium
+10978,32.82,21,Confections,MAISD,Belgium
+10978,32.82,40,Seafood,MAISD,Belgium
+10978,32.82,44,Condiments,MAISD,Belgium
+10890,32.76,17,"Meat & Poultry",DUMON,France
+10890,32.76,34,Beverages,DUMON,France
+10890,32.76,41,Seafood,DUMON,France
+10896,32.45,45,Seafood,MAISD,Belgium
+10896,32.45,56,"Grains & Cereals",MAISD,Belgium
+10248,32.38,11,"Dairy Products",VINET,France
+10248,32.38,42,"Grains & Cereals",VINET,France
+10248,32.38,72,"Dairy Products",VINET,France
+10875,32.37,19,Confections,BERGS,Sweden
+10875,32.37,47,Confections,BERGS,Sweden
+10875,32.37,49,Confections,BERGS,Sweden
+10630,32.35,55,"Meat & Poultry",KOENE,Germany
+10630,32.35,76,Beverages,KOENE,Germany
+10975,32.27,8,Condiments,BOTTM,Canada
+10975,32.27,75,Beverages,BOTTM,Canada
+10592,32.10,15,Condiments,LEHMS,Germany
+10592,32.10,26,Confections,LEHMS,Germany
+10517,32.07,52,"Grains & Cereals",NORTS,UK
+10517,32.07,59,"Dairy Products",NORTS,UK
+10517,32.07,70,Beverages,NORTS,UK
+10934,32.01,6,Condiments,LEHMS,Germany
+10938,31.89,13,Seafood,QUICK,Germany
+10938,31.89,43,Beverages,QUICK,Germany
+10938,31.89,60,"Dairy Products",QUICK,Germany
+10938,31.89,71,"Dairy Products",QUICK,Germany
+10675,31.85,14,Produce,FRANK,Germany
+10675,31.85,53,"Meat & Poultry",FRANK,Germany
+10675,31.85,58,Seafood,FRANK,Germany
+10937,31.51,28,Produce,CACTU,Argentina
+10937,31.51,34,Beverages,CACTU,Argentina
+10746,31.43,13,Seafood,CHOPS,Switzerland
+10746,31.43,42,"Grains & Cereals",CHOPS,Switzerland
+10746,31.43,62,Confections,CHOPS,Switzerland
+10746,31.43,69,"Dairy Products",CHOPS,Switzerland
+10427,31.29,14,Produce,PICCO,Austria
+10811,31.22,19,Confections,LINOD,Venezuela
+10811,31.22,23,"Grains & Cereals",LINOD,Venezuela
+10811,31.22,40,Seafood,LINOD,Venezuela
+11058,31.14,21,Confections,BLAUS,Germany
+11058,31.14,60,"Dairy Products",BLAUS,Germany
+11058,31.14,61,Condiments,BLAUS,Germany
+10385,30.96,7,Produce,SPLIR,USA
+10385,30.96,60,"Dairy Products",SPLIR,USA
+10385,30.96,68,Confections,SPLIR,USA
+10951,30.85,33,"Dairy Products",RICSU,Switzerland
+10951,30.85,41,Seafood,RICSU,Switzerland
+10951,30.85,75,Beverages,RICSU,Switzerland
+10799,30.76,13,Seafood,KOENE,Germany
+10799,30.76,24,Beverages,KOENE,Germany
+10799,30.76,59,"Dairy Products",KOENE,Germany
+10363,30.54,31,"Dairy Products",DRACD,Germany
+10363,30.54,75,Beverages,DRACD,Germany
+10363,30.54,76,Beverages,DRACD,Germany
+10486,30.53,11,"Dairy Products",HILAA,Venezuela
+10486,30.53,51,Produce,HILAA,Venezuela
+10486,30.53,74,Produce,HILAA,Venezuela
+10628,30.36,1,Beverages,BLONP,France
+10394,30.34,13,Seafood,HUNGC,USA
+10394,30.34,62,Confections,HUNGC,USA
+10671,30.34,16,Confections,FRANR,France
+10671,30.34,62,Confections,FRANR,France
+10671,30.34,65,Condiments,FRANR,France
+10863,30.26,1,Beverages,HILAA,Venezuela
+10863,30.26,58,Seafood,HILAA,Venezuela
+11064,30.09,17,"Meat & Poultry",SAVEA,USA
+11064,30.09,41,Seafood,SAVEA,USA
+11064,30.09,53,"Meat & Poultry",SAVEA,USA
+11064,30.09,55,"Meat & Poultry",SAVEA,USA
+11064,30.09,68,Confections,SAVEA,USA
+11042,29.99,44,Condiments,COMMI,Brazil
+11042,29.99,61,Condiments,COMMI,Brazil
+10599,29.98,62,Confections,BSBEV,UK
+11062,29.93,53,"Meat & Poultry",REGGC,Italy
+11062,29.93,70,Beverages,REGGC,Italy
+10409,29.83,14,Produce,OCEAN,Argentina
+10409,29.83,21,Confections,OCEAN,Argentina
+10834,29.78,29,"Meat & Poultry",TRADH,Brazil
+10834,29.78,30,Seafood,TRADH,Brazil
+10299,29.76,19,Confections,RICAR,Brazil
+10299,29.76,70,Beverages,RICAR,Brazil
+10498,29.75,24,Beverages,HILAA,Venezuela
+10498,29.75,40,Seafood,HILAA,Venezuela
+10498,29.75,42,"Grains & Cereals",HILAA,Venezuela
+10920,29.61,50,Confections,AROUT,UK
+10578,29.60,35,Beverages,BSBEV,UK
+10578,29.60,57,"Grains & Cereals",BSBEV,UK
+11028,29.59,55,"Meat & Poultry",KOENE,Germany
+11028,29.59,59,"Dairy Products",KOENE,Germany
+11038,29.59,40,Seafood,SUPRD,Belgium
+11038,29.59,52,"Grains & Cereals",SUPRD,Belgium
+11038,29.59,71,"Dairy Products",SUPRD,Belgium
+10643,29.46,28,Produce,ALFKI,Germany
+10643,29.46,39,Beverages,ALFKI,Germany
+10643,29.46,46,Seafood,ALFKI,Germany
+11025,29.17,1,Beverages,WARTH,Finland
+11025,29.17,13,Seafood,WARTH,Finland
+11010,28.71,7,Produce,REGGC,Italy
+11010,28.71,24,Beverages,REGGC,Italy
+10790,28.23,7,Produce,GOURL,Brazil
+10790,28.23,56,"Grains & Cereals",GOURL,Brazil
+10534,27.94,30,Seafood,LEHMS,Germany
+10534,27.94,40,Seafood,LEHMS,Germany
+10534,27.94,54,"Meat & Poultry",LEHMS,Germany
+10679,27.94,59,"Dairy Products",BLONP,France
+10954,27.91,16,Confections,LINOD,Venezuela
+10954,27.91,31,"Dairy Products",LINOD,Venezuela
+10954,27.91,45,Seafood,LINOD,Venezuela
+10954,27.91,60,"Dairy Products",LINOD,Venezuela
+10608,27.79,56,"Grains & Cereals",TOMSP,Germany
+10582,27.71,57,"Grains & Cereals",BLAUS,Germany
+10582,27.71,76,Beverages,BLAUS,Germany
+10399,27.36,68,Confections,VAFFE,Denmark
+10399,27.36,71,"Dairy Products",VAFFE,Denmark
+10399,27.36,76,Beverages,VAFFE,Denmark
+10399,27.36,77,Condiments,VAFFE,Denmark
+10804,27.33,10,Seafood,SEVES,UK
+10804,27.33,28,Produce,SEVES,UK
+10804,27.33,49,Confections,SEVES,UK
+10946,27.20,10,Seafood,VAFFE,Denmark
+10946,27.20,24,Beverages,VAFFE,Denmark
+10946,27.20,77,Condiments,VAFFE,Denmark
+10966,27.19,37,Seafood,CHOPS,Switzerland
+10966,27.19,56,"Grains & Cereals",CHOPS,Switzerland
+10966,27.19,62,Confections,CHOPS,Switzerland
+10275,26.93,24,Beverages,MAGAA,Italy
+10275,26.93,59,"Dairy Products",MAGAA,Italy
+10341,26.78,33,"Dairy Products",SIMOB,Denmark
+10341,26.78,59,"Dairy Products",SIMOB,Denmark
+10610,26.78,36,Seafood,LAMAI,France
+10680,26.61,16,Confections,OLDWO,USA
+10680,26.61,31,"Dairy Products",OLDWO,USA
+10680,26.61,42,"Grains & Cereals",OLDWO,USA
+10796,26.52,26,Confections,HILAA,Venezuela
+10796,26.52,44,Condiments,HILAA,Venezuela
+10796,26.52,64,"Grains & Cereals",HILAA,Venezuela
+10796,26.52,69,"Dairy Products",HILAA,Venezuela
+10665,26.31,51,Produce,LONEP,USA
+10665,26.31,59,"Dairy Products",LONEP,USA
+10665,26.31,76,Beverages,LONEP,USA
+10906,26.29,61,Condiments,WOLZA,Poland
+10571,26.06,14,Produce,ERNSH,Austria
+10571,26.06,42,"Grains & Cereals",ERNSH,Austria
+10279,25.83,17,"Meat & Poultry",LEHMS,Germany
+10266,25.73,12,"Dairy Products",WARTH,Finland
+10577,25.41,39,Beverages,TRAIH,USA
+10577,25.41,75,Beverages,TRAIH,USA
+10577,25.41,77,Condiments,TRAIH,USA
+10453,25.36,48,Confections,AROUT,UK
+10453,25.36,70,Beverages,AROUT,UK
+10844,25.22,22,"Grains & Cereals",PICCO,Austria
+11006,25.19,1,Beverages,GREAL,USA
+11006,25.19,29,"Meat & Poultry",GREAL,USA
+10459,25.09,7,Produce,VICTE,France
+10459,25.09,46,Seafood,VICTE,France
+10459,25.09,72,"Dairy Products",VICTE,France
+11073,24.95,11,"Dairy Products",PERIC,Mexico
+11073,24.95,24,Beverages,PERIC,Mexico
+10544,24.91,28,Produce,LONEP,USA
+10544,24.91,67,Beverages,LONEP,USA
+10311,24.69,42,"Grains & Cereals",DUMON,France
+10311,24.69,69,"Dairy Products",DUMON,France
+10423,24.50,31,"Dairy Products",GOURL,Brazil
+10423,24.50,59,"Dairy Products",GOURL,Brazil
+10714,24.49,2,Beverages,SAVEA,USA
+10714,24.49,17,"Meat & Poultry",SAVEA,USA
+10714,24.49,47,Confections,SAVEA,USA
+10714,24.49,56,"Grains & Cereals",SAVEA,USA
+10714,24.49,58,Seafood,SAVEA,USA
+10669,24.39,36,Seafood,SIMOB,Denmark
+11048,24.12,68,Confections,BOTTM,Canada
+10702,23.94,3,Condiments,ALFKI,Germany
+10702,23.94,76,Beverages,ALFKI,Germany
+10792,23.79,2,Beverages,WOLZA,Poland
+10792,23.79,54,"Meat & Poultry",WOLZA,Poland
+10792,23.79,68,Confections,WOLZA,Poland
+10621,23.73,19,Confections,ISLAT,UK
+10621,23.73,23,"Grains & Cereals",ISLAT,UK
+10621,23.73,70,Beverages,ISLAT,UK
+10621,23.73,71,"Dairy Products",ISLAT,UK
+10743,23.72,46,Seafood,AROUT,UK
+10953,23.72,20,Confections,AROUT,UK
+10953,23.72,31,"Dairy Products",AROUT,UK
+10411,23.65,41,Seafood,BOTTM,Canada
+10411,23.65,44,Condiments,BOTTM,Canada
+10411,23.65,59,"Dairy Products",BOTTM,Canada
+11014,23.60,41,Seafood,LINOD,Venezuela
+10640,23.55,69,"Dairy Products",WANDK,Germany
+10640,23.55,70,Beverages,WANDK,Germany
+10948,23.39,50,Confections,GODOS,Spain
+10948,23.39,51,Produce,GODOS,Spain
+10948,23.39,55,"Meat & Poultry",GODOS,Spain
+10344,23.29,4,Condiments,WHITC,USA
+10344,23.29,8,Condiments,WHITC,USA
+10882,23.10,42,"Grains & Cereals",SAVEA,USA
+10882,23.10,49,Confections,SAVEA,USA
+10882,23.10,54,"Meat & Poultry",SAVEA,USA
+10254,22.98,24,Beverages,CHOPS,Switzerland
+10254,22.98,55,"Meat & Poultry",CHOPS,Switzerland
+10254,22.98,74,Produce,CHOPS,Switzerland
+10562,22.95,33,"Dairy Products",REGGC,Italy
+10562,22.95,62,Confections,REGGC,Italy
+10289,22.77,3,Condiments,BSBEV,UK
+10289,22.77,64,"Grains & Cereals",BSBEV,UK
+10673,22.76,16,Confections,WILMK,Finland
+10673,22.76,42,"Grains & Cereals",WILMK,Finland
+10673,22.76,43,Beverages,WILMK,Finland
+10416,22.72,19,Confections,WARTH,Finland
+10416,22.72,53,"Meat & Poultry",WARTH,Finland
+10416,22.72,57,"Grains & Cereals",WARTH,Finland
+10716,22.57,21,Confections,RANCH,Argentina
+10716,22.57,51,Produce,RANCH,Argentina
+10716,22.57,61,Condiments,RANCH,Argentina
+10377,22.21,28,Produce,SEVES,UK
+10377,22.21,39,Beverages,SEVES,UK
+10806,22.11,2,Beverages,VICTE,France
+10806,22.11,65,Condiments,VICTE,France
+10806,22.11,74,Produce,VICTE,France
+10365,22.00,11,"Dairy Products",ANTON,Mexico
+10707,21.74,55,"Meat & Poultry",AROUT,UK
+10707,21.74,57,"Grains & Cereals",AROUT,UK
+10707,21.74,70,Beverages,AROUT,UK
+10723,21.72,26,Confections,WHITC,USA
+10794,21.49,14,Produce,QUEDE,Brazil
+10794,21.49,54,"Meat & Poultry",QUEDE,Brazil
+10414,21.48,19,Confections,FAMIA,Brazil
+10414,21.48,33,"Dairy Products",FAMIA,Brazil
+10506,21.19,25,Confections,KOENE,Germany
+10506,21.19,70,Beverages,KOENE,Germany
+10914,21.19,71,"Dairy Products",QUEEN,Brazil
+10293,21.18,18,Seafood,TORTU,Mexico
+10293,21.18,24,Beverages,TORTU,Mexico
+10293,21.18,63,Condiments,TORTU,Mexico
+10293,21.18,75,Beverages,TORTU,Mexico
+10651,20.60,19,Confections,WANDK,Germany
+10651,20.60,22,"Grains & Cereals",WANDK,Germany
+10376,20.39,31,"Dairy Products",MEREP,Canada
+10891,20.37,30,Seafood,LEHMS,Germany
+10998,20.31,24,Beverages,WOLZA,Poland
+10998,20.31,61,Condiments,WOLZA,Poland
+10998,20.31,74,Produce,WOLZA,Poland
+10998,20.31,75,Beverages,WOLZA,Poland
+10775,20.25,10,Seafood,THECR,USA
+10775,20.25,67,Beverages,THECR,USA
+10375,20.12,14,Produce,HUNGC,USA
+10375,20.12,54,"Meat & Poultry",HUNGC,USA
+10730,20.12,16,Confections,BONAP,France
+10730,20.12,31,"Dairy Products",BONAP,France
+10730,20.12,65,Condiments,BONAP,France
+10437,19.97,53,"Meat & Poultry",WARTH,Finland
+10919,19.80,16,Confections,LINOD,Venezuela
+10919,19.80,25,Confections,LINOD,Venezuela
+10919,19.80,40,Seafood,LINOD,Venezuela
+10927,19.79,20,Confections,LACOR,France
+10927,19.79,52,"Grains & Cereals",LACOR,France
+10927,19.79,76,Beverages,LACOR,France
+10940,19.77,7,Produce,BONAP,France
+10940,19.77,13,Seafood,BONAP,France
+10819,19.76,43,Beverages,CACTU,Argentina
+10819,19.76,75,Beverages,CACTU,Argentina
+10358,19.64,24,Beverages,LAMAI,France
+10358,19.64,34,Beverages,LAMAI,France
+10358,19.64,36,Seafood,LAMAI,France
+10874,19.58,10,Seafood,GODOS,Spain
+10860,19.26,51,Produce,FRANR,France
+10860,19.26,76,Beverages,FRANR,France
+11040,18.84,21,Confections,GREAL,USA
+10426,18.69,56,"Grains & Cereals",GALED,Spain
+10426,18.69,64,"Grains & Cereals",GALED,Spain
+10761,18.66,25,Confections,RATTC,USA
+10761,18.66,75,Beverages,RATTC,USA
+10576,18.56,1,Beverages,TORTU,Mexico
+10576,18.56,31,"Dairy Products",TORTU,Mexico
+10576,18.56,44,Condiments,TORTU,Mexico
+10617,18.53,59,"Dairy Products",GREAL,USA
+11074,18.44,16,Confections,SIMOB,Denmark
+10942,17.95,49,Confections,REGGC,Italy
+10434,17.92,11,"Dairy Products",FOLKO,Sweden
+10434,17.92,76,Beverages,FOLKO,Sweden
+10300,17.68,66,Condiments,MAGAA,Italy
+10300,17.68,68,Confections,MAGAA,Italy
+10418,17.55,2,Beverages,QUICK,Germany
+10418,17.55,47,Confections,QUICK,Germany
+10418,17.55,61,Condiments,QUICK,Germany
+10418,17.55,74,Produce,QUICK,Germany
+10661,17.55,39,Beverages,HUNGO,Ireland
+10661,17.55,58,Seafood,HUNGO,Ireland
+10310,17.52,16,Confections,THEBI,USA
+10310,17.52,62,Confections,THEBI,USA
+10521,17.22,35,Beverages,CACTU,Argentina
+10521,17.22,41,Seafood,CACTU,Argentina
+10521,17.22,68,Confections,CACTU,Argentina
+10732,16.97,76,Beverages,BONAP,France
+10491,16.96,44,Condiments,FURIB,Portugal
+10491,16.96,77,Condiments,FURIB,Portugal
+10791,16.85,29,"Meat & Poultry",FRANK,Germany
+10791,16.85,41,Seafood,FRANK,Germany
+10503,16.74,14,Produce,HUNGO,Ireland
+10503,16.74,65,Condiments,HUNGO,Ireland
+10695,16.72,8,Condiments,WILMK,Finland
+10695,16.72,12,"Dairy Products",WILMK,Finland
+10695,16.72,24,Beverages,WILMK,Finland
+10755,16.71,47,Confections,BONAP,France
+10755,16.71,56,"Grains & Cereals",BONAP,France
+10755,16.71,57,"Grains & Cereals",BONAP,France
+10755,16.71,69,"Dairy Products",BONAP,France
+10726,16.56,4,Condiments,EASTC,UK
+10726,16.56,11,"Dairy Products",EASTC,UK
+10473,16.37,33,"Dairy Products",ISLAT,UK
+10473,16.37,71,"Dairy Products",ISLAT,UK
+10596,16.34,56,"Grains & Cereals",WHITC,USA
+10596,16.34,63,Condiments,WHITC,USA
+10596,16.34,75,Beverages,WHITC,USA
+10460,16.27,68,Confections,FOLKO,Sweden
+10460,16.27,75,Beverages,FOLKO,Sweden
+10970,16.16,52,"Grains & Cereals",BOLID,Spain
+10690,15.80,56,"Grains & Cereals",HANAR,Brazil
+10690,15.80,77,Condiments,HANAR,Brazil
+11069,15.67,39,Beverages,TORTU,Mexico
+10339,15.66,4,Condiments,MEREP,Canada
+10339,15.66,17,"Meat & Poultry",MEREP,Canada
+10339,15.66,62,Confections,MEREP,Canada
+10535,15.64,11,"Dairy Products",ANTON,Mexico
+10535,15.64,40,Seafood,ANTON,Mexico
+10535,15.64,57,"Grains & Cereals",ANTON,Mexico
+10535,15.64,59,"Dairy Products",ANTON,Mexico
+10930,15.55,21,Confections,SUPRD,Belgium
+10930,15.55,27,Confections,SUPRD,Belgium
+10930,15.55,55,"Meat & Poultry",SUPRD,Belgium
+10930,15.55,58,Seafood,SUPRD,Belgium
+10336,15.51,4,Condiments,PRINI,Portugal
+10483,15.28,34,Beverages,WHITC,USA
+10483,15.28,77,Condiments,WHITC,USA
+10973,15.17,26,Confections,LACOR,France
+10973,15.17,41,Seafood,LACOR,France
+10973,15.17,75,Beverages,LACOR,France
+10861,14.93,17,"Meat & Poultry",WHITC,USA
+10861,14.93,18,Seafood,WHITC,USA
+10861,14.93,21,Confections,WHITC,USA
+10861,14.93,33,"Dairy Products",WHITC,USA
+10861,14.93,62,Confections,WHITC,USA
+11003,14.91,1,Beverages,THECR,USA
+11003,14.91,40,Seafood,THECR,USA
+11003,14.91,52,"Grains & Cereals",THECR,USA
+10463,14.78,19,Confections,SUPRD,Belgium
+10463,14.78,42,"Grains & Cereals",SUPRD,Belgium
+10446,14.68,19,Confections,TOMSP,Germany
+10446,14.68,24,Beverages,TOMSP,Germany
+10446,14.68,31,"Dairy Products",TOMSP,Germany
+10446,14.68,52,"Grains & Cereals",TOMSP,Germany
+10815,14.62,33,"Dairy Products",SAVEA,USA
+10648,14.25,22,"Grains & Cereals",RICAR,Brazil
+10648,14.25,24,Beverages,RICAR,Brazil
+10982,14.01,7,Produce,BOTTM,Canada
+10982,14.01,43,Beverages,BOTTM,Canada
+11061,14.01,60,"Dairy Products",GREAL,USA
+10386,13.99,24,Beverages,FAMIA,Brazil
+10386,13.99,34,Beverages,FAMIA,Brazil
+10256,13.97,53,"Meat & Poultry",WELLI,Brazil
+10256,13.97,77,Condiments,WELLI,Brazil
+10443,13.95,11,"Dairy Products",REGGC,Italy
+10443,13.95,28,Produce,REGGC,Italy
+10276,13.84,10,Seafood,TORTU,Mexico
+10276,13.84,13,Seafood,TORTU,Mexico
+10564,13.75,17,"Meat & Poultry",RATTC,USA
+10564,13.75,31,"Dairy Products",RATTC,USA
+10564,13.75,55,"Meat & Poultry",RATTC,USA
+10579,13.73,15,Condiments,LETSS,USA
+10579,13.73,75,Beverages,LETSS,USA
+10905,13.72,1,Beverages,WELLI,Brazil
+10931,13.60,13,Seafood,RICSU,Switzerland
+10931,13.60,57,"Grains & Cereals",RICSU,Switzerland
+10367,13.55,34,Beverages,VAFFE,Denmark
+10367,13.55,54,"Meat & Poultry",VAFFE,Denmark
+10367,13.55,65,Condiments,VAFFE,Denmark
+10367,13.55,77,Condiments,VAFFE,Denmark
+10689,13.42,1,Beverages,BERGS,Sweden
+10585,13.41,47,Confections,WELLI,Brazil
+10520,13.37,24,Beverages,SANTG,Norway
+10520,13.37,53,"Meat & Poultry",SANTG,Norway
+10837,13.32,13,Seafood,BERGS,Sweden
+10837,13.32,40,Seafood,BERGS,Sweden
+10837,13.32,47,Confections,BERGS,Sweden
+10837,13.32,76,Beverages,BERGS,Sweden
+10477,13.02,1,Beverages,PRINI,Portugal
+10477,13.02,21,Confections,PRINI,Portugal
+10477,13.02,39,Beverages,PRINI,Portugal
+10974,12.96,63,Condiments,SPLIR,USA
+11065,12.91,30,Seafood,LILAS,Venezuela
+11065,12.91,54,"Meat & Poultry",LILAS,Venezuela
+10287,12.76,16,Confections,RICAR,Brazil
+10287,12.76,34,Beverages,RICAR,Brazil
+10287,12.76,46,Seafood,RICAR,Brazil
+10330,12.75,26,Confections,LILAS,Venezuela
+10330,12.75,72,"Dairy Products",LILAS,Venezuela
+10282,12.69,30,Seafood,ROMEY,Spain
+10282,12.69,57,"Grains & Cereals",ROMEY,Spain
+10317,12.69,1,Beverages,LONEP,USA
+10401,12.51,30,Seafood,RATTC,USA
+10401,12.51,56,"Grains & Cereals",RATTC,USA
+10401,12.51,65,Condiments,RATTC,USA
+10401,12.51,71,"Dairy Products",RATTC,USA
+10645,12.41,18,Seafood,HANAR,Brazil
+10645,12.41,36,Seafood,HANAR,Brazil
+10539,12.36,13,Seafood,BSBEV,UK
+10539,12.36,21,Confections,BSBEV,UK
+10539,12.36,33,"Dairy Products",BSBEV,UK
+10539,12.36,49,Confections,BSBEV,UK
+10870,12.04,35,Beverages,WOLZA,Poland
+10870,12.04,51,Produce,WOLZA,Poland
+10759,11.99,32,"Dairy Products",ANATR,Mexico
+10466,11.93,11,"Dairy Products",COMMI,Brazil
+10466,11.93,46,Seafood,COMMI,Brazil
+10545,11.92,11,"Dairy Products",LAZYK,USA
+11018,11.65,12,"Dairy Products",LONEP,USA
+11018,11.65,18,Seafood,LONEP,USA
+11018,11.65,56,"Grains & Cereals",LONEP,USA
+10249,11.61,14,Produce,TOMSP,Germany
+10249,11.61,51,Produce,TOMSP,Germany
+10457,11.57,59,"Dairy Products",KOENE,Germany
+10408,11.26,37,Seafood,FOLIG,France
+10408,11.26,54,"Meat & Poultry",FOLIG,France
+10408,11.26,62,Confections,FOLIG,France
+10771,11.19,71,"Dairy Products",ERNSH,Austria
+10428,11.09,46,Seafood,REGGC,Italy
+10739,11.08,36,Seafood,VINET,France
+10739,11.08,52,"Grains & Cereals",VINET,France
+10525,11.06,36,Seafood,BONAP,France
+10525,11.06,40,Seafood,BONAP,France
+11060,10.98,60,"Dairy Products",FRANS,Italy
+11060,10.98,77,Condiments,FRANS,Italy
+10741,10.96,2,Beverages,AROUT,UK
+10542,10.95,11,"Dairy Products",KOENE,Germany
+10542,10.95,54,"Meat & Poultry",KOENE,Germany
+10725,10.83,41,Seafood,FAMIA,Brazil
+10725,10.83,52,"Grains & Cereals",FAMIA,Brazil
+10725,10.83,55,"Meat & Poultry",FAMIA,Brazil
+10493,10.64,65,Condiments,LAMAI,France
+10493,10.64,66,Condiments,LAMAI,France
+10493,10.64,69,"Dairy Products",LAMAI,France
+10945,10.22,13,Seafood,MORGK,Germany
+10945,10.22,31,"Dairy Products",MORGK,Germany
+10331,10.19,54,"Meat & Poultry",BONAP,France
+10366,10.14,65,Condiments,GALED,Spain
+10366,10.14,77,Condiments,GALED,Spain
+10556,9.80,72,"Dairy Products",SIMOB,Denmark
+10720,9.53,35,Beverages,QUEDE,Brazil
+10720,9.53,71,"Dairy Products",QUEDE,Brazil
+10445,9.30,39,Beverages,BERGS,Sweden
+10445,9.30,54,"Meat & Poultry",BERGS,Sweden
+10843,9.26,51,Produce,VICTE,France
+10435,9.21,2,Beverages,CONSH,UK
+10435,9.21,22,"Grains & Cereals",CONSH,UK
+10435,9.21,72,"Dairy Products",CONSH,UK
+10907,9.19,75,Beverages,SPECD,France
+10280,8.98,24,Beverages,BERGS,Sweden
+10280,8.98,55,"Meat & Poultry",BERGS,Sweden
+10280,8.98,75,Beverages,BERGS,Sweden
+10501,8.85,54,"Meat & Poultry",BLAUS,Germany
+10993,8.81,29,"Meat & Poultry",FOLKO,Sweden
+10993,8.81,41,Seafood,FOLKO,Sweden
+11043,8.80,11,"Dairy Products",SPECD,France
+11044,8.72,62,Confections,WOLZA,Poland
+10349,8.63,54,"Meat & Poultry",SPLIR,USA
+10334,8.56,52,"Grains & Cereals",VICTE,France
+10334,8.56,68,Confections,VICTE,France
+11077,8.53,2,Beverages,RATTC,USA
+11077,8.53,3,Condiments,RATTC,USA
+11077,8.53,4,Condiments,RATTC,USA
+11077,8.53,6,Condiments,RATTC,USA
+11077,8.53,7,Produce,RATTC,USA
+11077,8.53,8,Condiments,RATTC,USA
+11077,8.53,10,Seafood,RATTC,USA
+11077,8.53,12,"Dairy Products",RATTC,USA
+11077,8.53,13,Seafood,RATTC,USA
+11077,8.53,14,Produce,RATTC,USA
+11077,8.53,16,Confections,RATTC,USA
+11077,8.53,20,Confections,RATTC,USA
+11077,8.53,23,"Grains & Cereals",RATTC,USA
+11077,8.53,32,"Dairy Products",RATTC,USA
+11077,8.53,39,Beverages,RATTC,USA
+11077,8.53,41,Seafood,RATTC,USA
+11077,8.53,46,Seafood,RATTC,USA
+11077,8.53,52,"Grains & Cereals",RATTC,USA
+11077,8.53,55,"Meat & Poultry",RATTC,USA
+11077,8.53,60,"Dairy Products",RATTC,USA
+11077,8.53,64,"Grains & Cereals",RATTC,USA
+11077,8.53,66,Condiments,RATTC,USA
+11077,8.53,73,Seafood,RATTC,USA
+11077,8.53,75,Beverages,RATTC,USA
+11077,8.53,77,Condiments,RATTC,USA
+10879,8.50,40,Seafood,WILMK,Finland
+10879,8.50,65,Condiments,WILMK,Finland
+10879,8.50,76,Beverages,WILMK,Finland
+11049,8.34,2,Beverages,GOURL,Brazil
+11049,8.34,12,"Dairy Products",GOURL,Brazil
+10917,8.29,30,Seafood,ROMEY,Spain
+10917,8.29,60,"Dairy Products",ROMEY,Spain
+10438,8.24,19,Confections,TOMSP,Germany
+10438,8.24,34,Beverages,TOMSP,Germany
+10438,8.24,57,"Grains & Cereals",TOMSP,Germany
+10757,8.19,34,Beverages,SAVEA,USA
+10757,8.19,59,"Dairy Products",SAVEA,USA
+10757,8.19,62,Confections,SAVEA,USA
+10757,8.19,64,"Grains & Cereals",SAVEA,USA
+10456,8.12,21,Confections,KOENE,Germany
+10456,8.12,49,Confections,KOENE,Germany
+10531,8.12,59,"Dairy Products",OCEAN,Argentina
+10613,8.11,13,Seafood,HILAA,Venezuela
+10613,8.11,75,Beverages,HILAA,Venezuela
+10559,8.05,41,Seafood,BLONP,France
+10559,8.05,55,"Meat & Poultry",BLONP,France
+10381,7.99,74,Produce,LILAS,Venezuela
+11067,7.98,41,Seafood,DRACD,Germany
+10425,7.93,55,"Meat & Poultry",LAMAI,France
+10425,7.93,76,Beverages,LAMAI,France
+10737,7.79,13,Seafood,VINET,France
+10737,7.79,41,Seafood,VINET,France
+10753,7.70,45,Seafood,FRANS,Italy
+10753,7.70,74,Produce,FRANS,Italy
+10306,7.56,30,Seafood,ROMEY,Spain
+10306,7.56,53,"Meat & Poultry",ROMEY,Spain
+10306,7.56,54,"Meat & Poultry",ROMEY,Spain
+10482,7.48,40,Seafood,LAZYK,USA
+10604,7.46,48,Confections,FURIB,Portugal
+10604,7.46,76,Beverages,FURIB,Portugal
+10288,7.45,54,"Meat & Poultry",REGGC,Italy
+10288,7.45,68,Confections,REGGC,Italy
+10583,7.28,29,"Meat & Poultry",WARTH,Finland
+10583,7.28,60,"Dairy Products",WARTH,Finland
+10583,7.28,69,"Dairy Products",WARTH,Finland
+10450,7.23,10,Seafood,VICTE,France
+10450,7.23,54,"Meat & Poultry",VICTE,France
+10565,7.15,24,Beverages,MEREP,Canada
+10565,7.15,64,"Grains & Cereals",MEREP,Canada
+10652,7.14,30,Seafood,GOURL,Brazil
+10652,7.14,42,"Grains & Cereals",GOURL,Brazil
+10505,7.13,62,Confections,MEREP,Canada
+10826,7.09,31,"Dairy Products",BLONP,France
+10826,7.09,57,"Grains & Cereals",BLONP,France
+10822,7.00,62,Confections,TRAIH,USA
+10822,7.00,70,Beverages,TRAIH,USA
+10484,6.88,21,Confections,BSBEV,UK
+10484,6.88,40,Seafood,BSBEV,UK
+10484,6.88,51,Produce,BSBEV,UK
+10778,6.79,41,Seafood,BERGS,Sweden
+10568,6.54,10,Seafood,GALED,Spain
+10291,6.40,13,Seafood,QUEDE,Brazil
+10291,6.40,44,Condiments,QUEDE,Brazil
+10291,6.40,51,Produce,QUEDE,Brazil
+10302,6.27,17,"Meat & Poultry",SUPRD,Belgium
+10302,6.27,28,Produce,SUPRD,Belgium
+10302,6.27,43,Beverages,SUPRD,Belgium
+11022,6.27,19,Confections,HANAR,Brazil
+11022,6.27,69,"Dairy Products",HANAR,Brazil
+10649,6.20,28,Produce,MAISD,Belgium
+10649,6.20,72,"Dairy Products",MAISD,Belgium
+11075,6.19,2,Beverages,RICSU,Switzerland
+11075,6.19,46,Seafood,RICSU,Switzerland
+11075,6.19,76,Beverages,RICSU,Switzerland
+10462,6.17,13,Seafood,CONSH,UK
+10462,6.17,23,"Grains & Cereals",CONSH,UK
+10274,6.01,71,"Dairy Products",VINET,France
+10274,6.01,72,"Dairy Products",VINET,France
+10297,5.74,39,Beverages,BLONP,France
+10297,5.74,72,"Dairy Products",BLONP,France
+10885,5.64,2,Beverages,SUPRD,Belgium
+10885,5.64,24,Beverages,SUPRD,Belgium
+10885,5.64,70,Beverages,SUPRD,Belgium
+10885,5.64,77,Condiments,SUPRD,Belgium
+10391,5.45,13,Seafood,DRACD,Germany
+10378,5.44,71,"Dairy Products",FOLKO,Sweden
+10770,5.32,11,"Dairy Products",HANAR,Brazil
+10489,5.29,11,"Dairy Products",PICCO,Austria
+10489,5.29,16,Confections,PICCO,Austria
+10594,5.24,52,"Grains & Cereals",OLDWO,USA
+10594,5.24,58,Seafood,OLDWO,USA
+10508,4.99,13,Seafood,OTTIK,Germany
+10508,4.99,39,Beverages,OTTIK,Germany
+10886,4.99,10,Seafood,HANAR,Brazil
+10886,4.99,31,"Dairy Products",HANAR,Brazil
+10886,4.99,77,Condiments,HANAR,Brazil
+10710,4.98,19,Confections,FRANS,Italy
+10710,4.98,47,Confections,FRANS,Italy
+10959,4.98,75,Beverages,GOURL,Brazil
+10467,4.93,24,Beverages,MAGAA,Italy
+10467,4.93,25,Confections,MAGAA,Italy
+10488,4.93,59,"Dairy Products",FRANK,Germany
+10488,4.93,73,Seafood,FRANK,Germany
+10323,4.88,15,Condiments,KOENE,Germany
+10323,4.88,25,Confections,KOENE,Germany
+10323,4.88,39,Beverages,KOENE,Germany
+10538,4.87,70,Beverages,BSBEV,UK
+10538,4.87,72,"Dairy Products",BSBEV,UK
+10809,4.87,52,"Grains & Cereals",WELLI,Brazil
+10478,4.81,10,Seafood,VICTE,France
+10704,4.78,4,Condiments,QUEEN,Brazil
+10704,4.78,24,Beverages,QUEEN,Brazil
+10704,4.78,48,Confections,QUEEN,Brazil
+10318,4.73,41,Seafood,ISLAT,UK
+10318,4.73,76,Beverages,ISLAT,UK
+10495,4.65,23,"Grains & Cereals",LAUGB,Canada
+10495,4.65,41,Seafood,LAUGB,Canada
+10495,4.65,77,Condiments,LAUGB,Canada
+11015,4.62,30,Seafood,SANTG,Norway
+11015,4.62,77,Condiments,SANTG,Norway
+10269,4.56,33,"Dairy Products",WHITC,USA
+10269,4.56,72,"Dairy Products",WHITC,USA
+10271,4.54,33,"Dairy Products",SPLIR,USA
+10793,4.52,41,Seafood,AROUT,UK
+10793,4.52,52,"Grains & Cereals",AROUT,UK
+10589,4.42,35,Beverages,GREAL,USA
+10476,4.41,55,"Meat & Poultry",HILAA,Venezuela
+10476,4.41,70,Beverages,HILAA,Venezuela
+10655,4.41,41,Seafood,REGGC,Italy
+10683,4.40,52,"Grains & Cereals",DUMON,France
+10432,4.34,26,Confections,SPLIR,USA
+10432,4.34,54,"Meat & Poultry",SPLIR,USA
+10810,4.33,13,Seafood,LAUGB,Canada
+10810,4.33,25,Confections,LAUGB,Canada
+10810,4.33,70,Beverages,LAUGB,Canada
+10550,4.32,17,"Meat & Poultry",GODOS,Spain
+10550,4.32,19,Confections,GODOS,Spain
+10550,4.32,21,Confections,GODOS,Spain
+10550,4.32,61,Condiments,GODOS,Spain
+10992,4.27,72,"Dairy Products",THEBI,USA
+10472,4.20,24,Beverages,SEVES,UK
+10472,4.20,51,Produce,SEVES,UK
+11057,4.13,70,Beverages,NORTS,UK
+10439,4.07,12,"Dairy Products",MEREP,Canada
+10439,4.07,16,Confections,MEREP,Canada
+10439,4.07,64,"Grains & Cereals",MEREP,Canada
+10439,4.07,74,Produce,MEREP,Canada
+10677,4.03,26,Confections,ANTON,Mexico
+10677,4.03,33,"Dairy Products",ANTON,Mexico
+10374,3.94,31,"Dairy Products",WOLZA,Poland
+10374,3.94,58,Seafood,WOLZA,Poland
+10412,3.77,14,Produce,WARTH,Finland
+10264,3.67,2,Beverages,FOLKO,Sweden
+10264,3.67,41,Seafood,FOLKO,Sweden
+10512,3.53,24,Beverages,FAMIA,Brazil
+10512,3.53,46,Seafood,FAMIA,Brazil
+10512,3.53,47,Confections,FAMIA,Brazil
+10512,3.53,60,"Dairy Products",FAMIA,Brazil
+10705,3.52,31,"Dairy Products",HILAA,Venezuela
+10705,3.52,32,"Dairy Products",HILAA,Venezuela
+10745,3.52,18,Seafood,QUICK,Germany
+10745,3.52,44,Condiments,QUICK,Germany
+10745,3.52,59,"Dairy Products",QUICK,Germany
+10745,3.52,72,"Dairy Products",QUICK,Germany
+10915,3.51,17,"Meat & Poultry",TORTU,Mexico
+10915,3.51,33,"Dairy Products",TORTU,Mexico
+10915,3.51,54,"Meat & Poultry",TORTU,Mexico
+10444,3.50,17,"Meat & Poultry",BERGS,Sweden
+10444,3.50,26,Confections,BERGS,Sweden
+10444,3.50,35,Beverages,BERGS,Sweden
+10444,3.50,41,Seafood,BERGS,Sweden
+10321,3.43,35,Beverages,ISLAT,UK
+10528,3.35,11,"Dairy Products",GREAL,USA
+10528,3.35,33,"Dairy Products",GREAL,USA
+10528,3.35,72,"Dairy Products",GREAL,USA
+10947,3.26,59,"Dairy Products",BSBEV,UK
+10955,3.26,75,Beverages,FOLKO,Sweden
+10259,3.25,21,Confections,CENTC,Mexico
+10259,3.25,37,Seafood,CENTC,Mexico
+11037,3.20,70,Beverages,GODOS,Spain
+11019,3.17,46,Seafood,RANCH,Argentina
+11019,3.17,49,Confections,RANCH,Argentina
+10347,3.10,25,Confections,FAMIA,Brazil
+10347,3.10,39,Beverages,FAMIA,Brazil
+10347,3.10,40,Seafood,FAMIA,Brazil
+10347,3.10,75,Beverages,FAMIA,Brazil
+10261,3.05,21,Confections,QUEDE,Brazil
+10261,3.05,35,Beverages,QUEDE,Brazil
+10864,3.04,35,Beverages,AROUT,UK
+10864,3.04,67,Beverages,AROUT,UK
+10422,3.02,26,Confections,FRANS,Italy
+10581,3.01,75,Beverages,FAMIA,Brazil
+10777,3.01,42,"Grains & Cereals",GOURL,Brazil
+10708,2.96,5,Condiments,THEBI,USA
+10708,2.96,36,Seafood,THEBI,USA
+10281,2.94,19,Confections,ROMEY,Spain
+10281,2.94,24,Beverages,ROMEY,Spain
+10281,2.94,35,Beverages,ROMEY,Spain
+10602,2.92,77,Condiments,VAFFE,Denmark
+10738,2.91,16,Confections,SPECD,France
+10881,2.84,73,Seafood,CACTU,Argentina
+11051,2.79,24,Beverages,LAMAI,France
+10454,2.74,16,Confections,LAMAI,France
+10454,2.74,33,"Dairy Products",LAMAI,France
+10454,2.74,46,Seafood,LAMAI,France
+10840,2.71,25,Confections,LINOD,Venezuela
+10840,2.71,39,Beverages,LINOD,Venezuela
+10963,2.70,60,"Dairy Products",FURIB,Portugal
+10950,2.50,4,Condiments,MAGAA,Italy
+10410,2.40,33,"Dairy Products",BOTTM,Canada
+10410,2.40,59,"Dairy Products",BOTTM,Canada
+10754,2.38,40,Seafood,MAGAA,Italy
+10798,2.33,62,Confections,ISLAT,UK
+10798,2.33,72,"Dairy Products",ISLAT,UK
+10925,2.27,36,Seafood,HANAR,Brazil
+10925,2.27,52,"Grains & Cereals",HANAR,Brazil
+10943,2.17,13,Seafood,BSBEV,UK
+10943,2.17,22,"Grains & Cereals",BSBEV,UK
+10943,2.17,46,Seafood,BSBEV,UK
+10960,2.08,24,Beverages,HILAA,Venezuela
+10960,2.08,41,Seafood,HILAA,Venezuela
+10676,2.01,10,Seafood,TORTU,Mexico
+10676,2.01,19,Confections,TORTU,Mexico
+10676,2.01,44,Condiments,TORTU,Mexico
+10313,1.96,36,Seafood,QUICK,Germany
+10614,1.93,11,"Dairy Products",BLAUS,Germany
+10614,1.93,21,Confections,BLAUS,Germany
+10614,1.93,39,Beverages,BLAUS,Germany
+10867,1.93,53,"Meat & Poultry",LONEP,USA
+10609,1.85,1,Beverages,DUMON,France
+10609,1.85,10,Seafood,DUMON,France
+10609,1.85,21,Confections,DUMON,France
+10900,1.66,70,Beverages,WELLI,Brazil
+10734,1.63,6,Condiments,GOURL,Brazil
+10734,1.63,30,Seafood,GOURL,Brazil
+10734,1.63,76,Beverages,GOURL,Brazil
+10308,1.61,69,"Dairy Products",ANATR,Mexico
+10308,1.61,70,Beverages,ANATR,Mexico
+10767,1.59,42,"Grains & Cereals",SUPRD,Belgium
+10785,1.51,10,Seafood,GROSR,Venezuela
+10785,1.51,75,Beverages,GROSR,Venezuela
+10548,1.43,34,Beverages,TOMSP,Germany
+10548,1.43,41,Seafood,TOMSP,Germany
+10752,1.39,1,Beverages,NORTS,UK
+10752,1.39,69,"Dairy Products",NORTS,UK
+10807,1.36,40,Seafood,FRANS,Italy
+10928,1.36,47,Confections,GALED,Spain
+10928,1.36,76,Beverages,GALED,Spain
+10292,1.35,20,Confections,TRADH,Brazil
+10480,1.35,47,Confections,FOLIG,France
+10480,1.35,59,"Dairy Products",FOLIG,France
+10352,1.30,24,Beverages,FURIB,Portugal
+10352,1.30,54,"Meat & Poultry",FURIB,Portugal
+10662,1.28,68,Confections,LONEP,USA
+10664,1.27,10,Seafood,FURIB,Portugal
+10664,1.27,56,"Grains & Cereals",FURIB,Portugal
+10664,1.27,65,Condiments,FURIB,Portugal
+10898,1.27,13,Seafood,OCEAN,Argentina
+10980,1.26,75,Beverages,FOLKO,Sweden
+10887,1.25,25,Confections,GALED,Spain
+10824,1.23,41,Seafood,FOLKO,Sweden
+10824,1.23,70,Beverages,FOLKO,Sweden
+10899,1.21,39,Beverages,LILAS,Venezuela
+11011,1.21,58,Seafood,ALFKI,Germany
+11011,1.21,71,"Dairy Products",ALFKI,Germany
+10370,1.17,1,Beverages,CHOPS,Switzerland
+10370,1.17,64,"Grains & Cereals",CHOPS,Switzerland
+10370,1.17,74,Produce,CHOPS,Switzerland
+10295,1.15,56,"Grains & Cereals",VINET,France
+10636,1.15,4,Condiments,WARTH,Finland
+10636,1.15,58,Seafood,WARTH,Finland
+10996,1.12,42,"Grains & Cereals",QUICK,Germany
+10782,1.10,31,"Dairy Products",CACTU,Argentina
+10620,0.94,24,Beverages,LAUGB,Canada
+10620,0.94,52,"Grains & Cereals",LAUGB,Canada
+11071,0.93,7,Produce,LILAS,Venezuela
+11071,0.93,13,Seafood,LILAS,Venezuela
+10674,0.90,23,"Grains & Cereals",ISLAT,UK
+10631,0.87,75,Beverages,LAMAI,France
+10873,0.82,21,Confections,WILMK,Finland
+10873,0.82,28,Produce,WILMK,Finland
+10348,0.78,1,Beverages,WANDK,Germany
+10348,0.78,23,"Grains & Cereals",WANDK,Germany
+10615,0.75,55,"Meat & Poultry",WILMK,Finland
+11005,0.75,1,Beverages,WILMK,Finland
+11005,0.75,59,"Dairy Products",WILMK,Finland
+10333,0.59,14,Produce,WARTH,Finland
+10333,0.59,21,Confections,WARTH,Finland
+10333,0.59,71,"Dairy Products",WARTH,Finland
+10699,0.58,47,Confections,MORGK,Germany
+10307,0.56,62,Confections,LONEP,USA
+10307,0.56,68,Confections,LONEP,USA
+10849,0.56,3,Condiments,KOENE,Germany
+10849,0.56,26,Confections,KOENE,Germany
+10883,0.53,24,Beverages,LONEP,USA
+10586,0.48,52,"Grains & Cereals",REGGC,Italy
+10371,0.45,36,Seafood,LAMAI,France
+10322,0.40,52,"Grains & Cereals",PERIC,Mexico
+11054,0.33,33,"Dairy Products",CACTU,Argentina
+11054,0.33,67,Beverages,CACTU,Argentina
+10969,0.21,46,Seafood,COMMI,Brazil
+10415,0.20,17,"Meat & Poultry",HUNGC,USA
+10415,0.20,33,"Dairy Products",HUNGC,USA
+11035,0.17,1,Beverages,SUPRD,Belgium
+11035,0.17,35,Beverages,SUPRD,Belgium
+11035,0.17,42,"Grains & Cereals",SUPRD,Belgium
+11035,0.17,54,"Meat & Poultry",SUPRD,Belgium
+10509,0.15,28,Produce,BLAUS,Germany
+10644,0.14,18,Seafood,WELLI,Brazil
+10644,0.14,43,Beverages,WELLI,Brazil
+10644,0.14,46,Seafood,WELLI,Brazil
+10296,0.12,11,"Dairy Products",LILAS,Venezuela
+10296,0.12,16,Confections,LILAS,Venezuela
+10296,0.12,69,"Dairy Products",LILAS,Venezuela
+10972,0.02,17,"Meat & Poultry",LACOR,France
+10972,0.02,33,"Dairy Products",LACOR,France
