@@ -85,7 +85,7 @@ We also make sure to create our relational schema via the use of constraints, pr
 - Ensured that city and country fields are marked as geospatial.
 
 ## Modeling in Power BI
-
+data model
 - I created the model in a snowflake-schema, making sure to use one-to-many relationship with downward-flowing filters, and connected the product lookup table to the order table through the order detail table via order_id and product_id.
   - I also created a date table in Power Query using the aforementioned that covers the entire dataset, it goes from 2013-07-04 to 2015-03-31.
     - I could've used **CALENDAR()** in DAX instead, but this method allows me to manipulate the table in Power Query and it is much easier to go about it that way.
